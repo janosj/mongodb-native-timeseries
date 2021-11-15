@@ -1,0 +1,9 @@
+# Atlas Example
+# mongodb.uri=mongodb+srv://username:password@cluster.mine.mongodb.net
+
+# Local
+# mongodb.uri=mongodb://localhost:27017
+
+inputFile=../../../data/sensorData.json
+targetDB=TSDEMO
+targetCollection=rocketSensors

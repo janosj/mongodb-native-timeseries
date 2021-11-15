@@ -6,5 +6,5 @@ source demo.conf
 # Nanosecond converter (epoch to human-readable date) is available here:
 # https://www.epochconverter.com/
 
-mongoimport $MDB_CONNECT_URI --db=TSDEMO --collection=rocketSensors --file=sensorData.json --maintainInsertionOrder
+mongoimport $MDB_CONNECT_URI --db=TSDEMO --collection=rocketSensors --file=data/sensorData.json --maintainInsertionOrder
 

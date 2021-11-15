@@ -4,11 +4,11 @@ import json
 import time
 import math
 
-outputFileName = "../sensorData.json"
+outputFileName = "sensorData.json"
 outputFile = open(outputFileName, 'w')
 
-#numReadings = 100
-numReadings = 1000000
+numReadings = 100
+#numReadings = 1000000
 
 freqHz = 8700
 timeIncMS = 1 / freqHz * 1000
