@@ -6,6 +6,8 @@ mongo $MDB_CONNECT_URI --eval '
 
 db = db.getSiblingDB("tsperf"); 
 
+db.sensorReadings.drop();
+
 db.createCollection(
     "sensorReadings",
     {

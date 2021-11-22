@@ -3,18 +3,19 @@ import org.apache.commons.cli.*;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.InputStreamReader;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import java.io.FileReader;
+import java.io.File;
+import java.util.Properties;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
@@ -41,6 +42,7 @@ public final class ThroughputTester extends Thread {
     private static String targetDB;
     private static String targetCollection;
     private static int numThreads;
+    private static boolean doInserts = true;
 
     private int messagesProcessed = 0;
     private long timeElapsedMs = 0;
@@ -93,6 +95,8 @@ public final class ThroughputTester extends Thread {
         int countThisBatch = 0;
         int batchCount = 0;
         String strLine;
+
+        Document newMeta = new Document("sensorID", threadName);;
         while ((strLine = localBr.readLine()) != null)   {
 
             // Print sensor reading to the console
@@ -100,12 +104,20 @@ public final class ThroughputTester extends Thread {
 
             // Insert sensor reading into database collection
             Document sensorReading = Document.parse(strLine);
+            sensorReading.append("metadata", newMeta);
             sensorReadings.add(sensorReading);
             countThisBatch++;
             totalCount++;
 
+            //System.out.println(sensorReading.toString());
+            //Document sensorMeta = (Document)sensorReading.get("metadata");
+            //String sensorID = sensorMeta.get("sensorID").toString();
+            //System.out.println(sensorReading.toString());
+
             if (countThisBatch == batchSize) {
-                localCollection.insertMany(sensorReadings, options);
+                if (doInserts) {
+                    localCollection.insertMany(sensorReadings, options);
+                }
                 batchCount++;
                 countThisBatch = 0;
                 System.out.println("  " + threadName + " Batch " + batchCount + ": " + totalCount);
@@ -254,6 +266,12 @@ public final class ThroughputTester extends Thread {
         collectionOption.setRequired(false);
         options.addOption(collectionOption);
 
+        // Fake mode does everything except the actual inserts.
+        // For testing throughput of the tester itself.
+        Option fakeOption = new Option("f", "fake", false, "fake mode (no inserts)");
+        fakeOption.setRequired(false);
+        options.addOption(fakeOption);
+
         CommandLineParser parser = new DefaultParser();
         HelpFormatter formatter = new HelpFormatter();
         CommandLine cmd = null;//not a good practice, it serves it purpose 
@@ -270,7 +288,11 @@ public final class ThroughputTester extends Thread {
         mdbURI = cmd.getOptionValue("uri");
         if (mdbURI == null) {
             System.out.println("  MDB URI:           not specified - defaulting to localhost:27017 (no auth)");
-            mdbURI = "mongodb://localhost:27017";
+            // Guidance is to set retryableWrites to false for time series 
+            mdbURI = "mongodb://localhost:27017/?retryWrites=false";
+        }
+        if (!mdbURI.contains("retryWrites=false")) {
+            System.out.println("    ** Note: check connect string - retryWrites should be set to false");
         }
 
         inputFile = cmd.getOptionValue("file");
@@ -303,6 +325,11 @@ public final class ThroughputTester extends Thread {
             batchSize = Integer.parseInt(batchSizeStr);
             System.out.println("  Batch Size:        " + batchSize);
         }
+
+        if (cmd.hasOption("fake")) {
+            doInserts = false;
+            System.out.println("  Fake set to true - nothing will be inserted.");
+        };
 
         System.out.println("");
 
