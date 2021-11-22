@@ -84,8 +84,6 @@ public final class ThroughputTester extends Thread {
     // Inserts in bulk
     private int insertBulk(BufferedReader localBr, MongoCollection<Document> localCollection) throws IOException {
 
-        List<Document> sensorReadings = new ArrayList<>();
-
         InsertManyOptions options = new InsertManyOptions();
         //if (!ordered) {
             options.ordered(false);
@@ -97,6 +95,8 @@ public final class ThroughputTester extends Thread {
         String strLine;
 
         Document newMeta = new Document("sensorID", threadName);;
+        List<Document> sensorReadings = new ArrayList<>();
+
         while ((strLine = localBr.readLine()) != null)   {
 
             // Print sensor reading to the console
@@ -121,6 +121,7 @@ public final class ThroughputTester extends Thread {
                 batchCount++;
                 countThisBatch = 0;
                 System.out.println("  " + threadName + " Batch " + batchCount + ": " + totalCount);
+                sensorReadings = new ArrayList<>();
             }
 
         }
