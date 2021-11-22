@@ -20,6 +20,7 @@ import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
+import com.mongodb.client.model.InsertManyOptions;
 
 import org.bson.Document;
 
@@ -83,6 +84,11 @@ public final class ThroughputTester extends Thread {
 
         List<Document> sensorReadings = new ArrayList<>();
 
+        InsertManyOptions options = new InsertManyOptions();
+        //if (!ordered) {
+            options.ordered(false);
+        //}
+
         int totalCount = 0;
         int countThisBatch = 0;
         int batchCount = 0;
@@ -99,7 +105,7 @@ public final class ThroughputTester extends Thread {
             totalCount++;
 
             if (countThisBatch == batchSize) {
-                localCollection.insertMany(sensorReadings);
+                localCollection.insertMany(sensorReadings, options);
                 batchCount++;
                 countThisBatch = 0;
                 System.out.println("  " + threadName + " Batch " + batchCount + ": " + totalCount);
