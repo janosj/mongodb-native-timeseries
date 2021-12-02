@@ -13,10 +13,6 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import java.io.FileReader;
-import java.io.File;
-import java.util.Properties;
-
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoCollection;
@@ -86,7 +82,7 @@ public final class ThroughputTester extends Thread {
 
         InsertManyOptions options = new InsertManyOptions();
         //if (!ordered) {
-            options.ordered(false);
+            options.ordered(true);
         //}
 
         int totalCount = 0;
@@ -127,7 +123,7 @@ public final class ThroughputTester extends Thread {
         }
 
         if (countThisBatch > 0) {
-            localCollection.insertMany(sensorReadings);
+            localCollection.insertMany(sensorReadings, options);
             batchCount++;
         }
 

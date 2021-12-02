@@ -1,0 +1,12 @@
+# List number of chunks per shard, and chunk size
+# See here: https://docs.mongodb.com/manual/reference/method/db.collection.getShardDistribution/
+use tsperf
+db.sensorReadings.getShardDistribution()
+
+// Display sharding config and chunk info
+// See here:
+// https://docs.mongodb.com/manual/reference/method/sh.status/
+// https://docs.mongodb.com/manual/reference/method/db.printShardingStatus/#mongodb-method-db.printShardingStatus
+// db.status()
+db.printShardingStatus()
+
