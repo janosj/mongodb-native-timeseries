@@ -26,6 +26,7 @@ sensorReadingDoc =  { "timestamp" : "<replace>",
                     }
 
 # Current time in nanoseconds
+# Works on Python 3.9.7 (mac), but not the version available on RHEL.
 startTimeNanoSec = time.time_ns()
 # Print the time in nanoseconds since the epoch
 # print("Time in nanoseconds since the epoch:", startTimeNanoSec)
