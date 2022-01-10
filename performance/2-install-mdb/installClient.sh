@@ -16,3 +16,7 @@ yum install -y https://downloads.mongodb.com/compass/mongodb-mongosh-1.1.7.el8.x
 # Installs the standard mongo shell.
 # yum install -y https://repo.mongodb.com/yum/redhat/8/mongodb-enterprise/4.4/x86_64/RPMS/mongodb-enterprise-shell-4.4.6-1.el8.x86_64.rpm
 
+# Install Java (required by Java performance test client)
+sudo yum install -y java-1.8.0-openjdk-devel
+
+
