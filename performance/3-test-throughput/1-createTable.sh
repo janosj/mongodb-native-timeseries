@@ -4,17 +4,18 @@ source demo.conf
 
 mongo $MDB_CONNECT_URI --eval '
 
-db = db.getSiblingDB("tsperf"); 
+db = db.getSiblingDB("stars"); 
 
 db.sensorReadings.drop();
 
 db.createCollection(
-    "sensorReadings",
+    "telemetry",
     {
        timeseries: {
           timeField: "timestamp",
           metaField: "metadata",
           granularity: "seconds"
+          bucketMaxSpanSeconds: 3600
        }
     }
 )

@@ -12,7 +12,7 @@ db = db.getSiblingDB('admin')
 // https://docs.mongodb.com/manual/reference/method/sh.enableSharding/
 // https://docs.mongodb.com/manual/reference/command/enableSharding/#mongodb-dbcommand-dbcmd.enableSharding
 
-db.adminCommand( { enableSharding: 'tsperf' } )
+db.adminCommand( { enableSharding: 'stars' } )
 
 // Shard the collection.
 // See here:
@@ -26,7 +26,7 @@ db.adminCommand( { enableSharding: 'tsperf' } )
 // See here for details: https://docs.mongodb.com/manual/tutorial/clear-jumbo-flag/
 // To resolve the issue, refine (or redefine) the shard key to use a better key (e.g. a compound key).
 
-db.adminCommand( { shardCollection: 'tsperf.sensorReadings', key: { metadata: 1, timestamp: 1 } } )
+db.adminCommand( { shardCollection: 'stars.telemetry', key: { 'metadata.group': 1, timestamp: 1 }, false, {numInitialChunks:5000} );
 
 // Pre-split the empty collection into 3 chunks.
 // Based on a 3-shard configuration, each shard will get 1 chunk.
