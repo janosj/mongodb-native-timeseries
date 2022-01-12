@@ -26,7 +26,7 @@ db.adminCommand( { enableSharding: 'stars' } )
 // See here for details: https://docs.mongodb.com/manual/tutorial/clear-jumbo-flag/
 // To resolve the issue, refine (or redefine) the shard key to use a better key (e.g. a compound key).
 
-db.adminCommand( { shardCollection: 'stars.telemetry', key: { 'metadata.group': 1, timestamp: 1 }, false, {numInitialChunks:5000} );
+db.adminCommand( { shardCollection: 'stars.telemetry', key: { 'metadata.group': 'hashed', timestamp: 1 }, unique:false, numInitialChunks:5000 } );
 
 // Pre-split the empty collection into 3 chunks.
 // Based on a 3-shard configuration, each shard will get 1 chunk.

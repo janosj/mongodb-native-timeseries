@@ -2,11 +2,11 @@ source demo.conf
 
 # Create the time series collection
 
-mongo $MDB_CONNECT_URI --eval '
+mongosh $MDB_CONNECT_URI --eval '
 
 db = db.getSiblingDB("stars"); 
 
-db.sensorReadings.drop();
+db.telemetry.drop();
 
 db.createCollection(
     "telemetry",
