@@ -14,7 +14,7 @@ db.createCollection(
        timeseries: {
           timeField: "timestamp",
           metaField: "metadata",
-          granularity: "seconds"
+          granularity: "seconds",
           bucketMaxSpanSeconds: 3600
        }
     }
