@@ -3,7 +3,7 @@ source demo.conf
 # See here:
 # https://docs.mongodb.com/manual/reference/command/shardCollection/#mongodb-dbcommand-dbcmd.shardCollection
 
-mongo $MDB_CONNECT_URI --eval "
+mongosh $MDB_CONNECT_URI --eval "
 
 db = db.getSiblingDB('admin')
 
