@@ -10,12 +10,24 @@ print("Using a time bin of " + BIN_SIZE + " milliseconds.");
 
 db = db.getSiblingDB("TSDEMO");
 
+// These timestamps work with the provided json data file.
+// If you regenerate the sensorData.json file, adjust as necessary.
+start_time = ISODate("2021-11-10T17:13:31.330Z");
+end_time   = ISODate("2021-11-10T17:15:27.281Z");
+
 printjson(
 
   db.rocketSensors.aggregate([
 
-    // Stage 1: Group By
+    // Stage 1: filter on the specified time window
     {
+      $match: {
+        timestamp: { $gte: start_time, $lte: end_time }
+      }
+    }
+
+    // Stage 2: Group By
+    , {
       $group : {
           _id: {
              timeBin: {
@@ -28,7 +40,7 @@ printjson(
       }
     }
 
-    // Stage 2: Sort
+    // Stage 3: Sort
     , {
       $sort : {
          _id: 1

@@ -4,6 +4,8 @@ source demo.conf
 
 mongo $MDB_CONNECT_URI --eval '
 
+db.rocketSensors.drop();
+
 db.createCollection(
     "rocketSensors",
     {
