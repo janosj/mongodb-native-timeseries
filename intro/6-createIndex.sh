@@ -1,3 +1,5 @@
+source demo.conf
+
 # Data is indexed by time automatically (i.e. the bucket min and max).
 # Secondary indexes can be added on the timeField and metaField.
 
