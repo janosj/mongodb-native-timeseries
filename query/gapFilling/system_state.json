@@ -1,0 +1,1000 @@
+{"timestamp": {"$date": {"$numberLong": "1644550227638"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6024, 6723, 1], "velocity": [7, 4, 1], "infrequent_reading": 1686}}
+{"timestamp": {"$date": {"$numberLong": "1644550227701"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6123, 6276, 2], "velocity": [4, 7, 2]}}
+{"timestamp": {"$date": {"$numberLong": "1644550228119"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6993, 6540, 3], "velocity": [7, 7, 3]}}
+{"timestamp": {"$date": {"$numberLong": "1644550228167"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6024, 6579, 4], "velocity": [7, 1, 4]}}
+{"timestamp": {"$date": {"$numberLong": "1644550228720"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6738, 6930, 5], "velocity": [4, 7, 5]}}
+{"timestamp": {"$date": {"$numberLong": "1644550228930"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6333, 6822, 6], "velocity": [7, 7, 6]}}
+{"timestamp": {"$date": {"$numberLong": "1644550229258"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6834, 6384, 7], "velocity": [7, 4, 7], "infrequent_reading": 1370}}
+{"timestamp": {"$date": {"$numberLong": "1644550229804"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6306, 6201, 8], "velocity": [4, 7, 8]}}
+{"timestamp": {"$date": {"$numberLong": "1644550230044"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6414, 6588, 9], "velocity": [7, 4, 9]}}
+{"timestamp": {"$date": {"$numberLong": "1644550230148"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6735, 6282, 10], "velocity": [4, 7, 10]}}
+{"timestamp": {"$date": {"$numberLong": "1644550230223"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6321, 6870, 11], "velocity": [7, 7, 11], "infrequent_reading": 1316}}
+{"timestamp": {"$date": {"$numberLong": "1644550230621"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6219, 6252, 12], "velocity": [1, 1, 12]}}
+{"timestamp": {"$date": {"$numberLong": "1644550231058"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6891, 6717, 13], "velocity": [1, 4, 13]}}
+{"timestamp": {"$date": {"$numberLong": "1644550231166"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6192, 6495, 14], "velocity": [7, 1, 14]}}
+{"timestamp": {"$date": {"$numberLong": "1644550236304"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6243, 6174, 15], "velocity": [7, 7, 15]}}
+{"timestamp": {"$date": {"$numberLong": "1644550236352"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6330, 6528, 16], "velocity": [1, 4, 16], "infrequent_reading": 635}}
+{"timestamp": {"$date": {"$numberLong": "1644550236389"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6006, 6888, 17], "velocity": [4, 4, 17]}}
+{"timestamp": {"$date": {"$numberLong": "1644550236967"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6486, 6156, 18], "velocity": [1, 4, 18]}}
+{"timestamp": {"$date": {"$numberLong": "1644550237267"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6867, 6675, 19], "velocity": [4, 4, 19], "infrequent_reading": 1661}}
+{"timestamp": {"$date": {"$numberLong": "1644550237480"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6792, 6408, 20], "velocity": [1, 7, 20]}}
+{"timestamp": {"$date": {"$numberLong": "1644550237546"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6264, 6681, 21], "velocity": [7, 1, 21]}}
+{"timestamp": {"$date": {"$numberLong": "1644550237880"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6165, 6453, 22], "velocity": [7, 4, 22]}}
+{"timestamp": {"$date": {"$numberLong": "1644550237989"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6645, 6207, 23], "velocity": [4, 1, 23]}}
+{"timestamp": {"$date": {"$numberLong": "1644550238328"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6348, 6417, 24], "velocity": [1, 1, 24]}}
+{"timestamp": {"$date": {"$numberLong": "1644550243710"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6882, 6303, 25], "velocity": [7, 7, 25]}}
+{"timestamp": {"$date": {"$numberLong": "1644550244183"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6702, 6450, 26], "velocity": [1, 1, 26], "infrequent_reading": 404}}
+{"timestamp": {"$date": {"$numberLong": "1644550244226"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6816, 6636, 27], "velocity": [1, 4, 27], "infrequent_reading": 368}}
+{"timestamp": {"$date": {"$numberLong": "1644550244530"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6489, 6411, 28], "velocity": [1, 1, 28]}}
+{"timestamp": {"$date": {"$numberLong": "1644550244910"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6525, 6360, 29], "velocity": [7, 1, 29]}}
+{"timestamp": {"$date": {"$numberLong": "1644550245290"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6780, 6897, 30], "velocity": [4, 7, 30]}}
+{"timestamp": {"$date": {"$numberLong": "1644550245814"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6120, 6492, 31], "velocity": [1, 7, 31]}}
+{"timestamp": {"$date": {"$numberLong": "1644550246008"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6462, 6174, 32], "velocity": [7, 4, 32]}}
+{"timestamp": {"$date": {"$numberLong": "1644550246210"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6852, 6156, 33], "velocity": [7, 4, 33]}}
+{"timestamp": {"$date": {"$numberLong": "1644550246447"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6966, 6078, 34], "velocity": [1, 7, 34]}}
+{"timestamp": {"$date": {"$numberLong": "1644550246609"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6633, 6849, 35], "velocity": [1, 1, 35]}}
+{"timestamp": {"$date": {"$numberLong": "1644550246925"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6447, 6378, 36], "velocity": [7, 7, 36]}}
+{"timestamp": {"$date": {"$numberLong": "1644550247255"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6828, 6765, 37], "velocity": [4, 4, 37], "infrequent_reading": 1091}}
+{"timestamp": {"$date": {"$numberLong": "1644550247534"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6948, 6909, 38], "velocity": [1, 1, 38]}}
+{"timestamp": {"$date": {"$numberLong": "1644550247636"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6894, 6096, 39], "velocity": [1, 1, 39]}}
+{"timestamp": {"$date": {"$numberLong": "1644550248158"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6510, 6297, 40], "velocity": [1, 7, 40]}}
+{"timestamp": {"$date": {"$numberLong": "1644550248265"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6105, 6411, 41], "velocity": [7, 4, 41]}}
+{"timestamp": {"$date": {"$numberLong": "1644550248758"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6243, 6774, 42], "velocity": [7, 7, 42]}}
+{"timestamp": {"$date": {"$numberLong": "1644550249373"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6423, 6255, 43], "velocity": [7, 1, 43]}}
+{"timestamp": {"$date": {"$numberLong": "1644550249989"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6849, 6117, 44], "velocity": [7, 4, 44]}}
+{"timestamp": {"$date": {"$numberLong": "1644550250584"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6765, 6201, 45], "velocity": [4, 7, 45], "infrequent_reading": 995}}
+{"timestamp": {"$date": {"$numberLong": "1644550250873"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6459, 6138, 46], "velocity": [1, 7, 46]}}
+{"timestamp": {"$date": {"$numberLong": "1644550251054"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6345, 6219, 47], "velocity": [7, 1, 47]}}
+{"timestamp": {"$date": {"$numberLong": "1644550251161"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6171, 6720, 48], "velocity": [4, 7, 48]}}
+{"timestamp": {"$date": {"$numberLong": "1644550251222"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6372, 6564, 49], "velocity": [4, 4, 49]}}
+{"timestamp": {"$date": {"$numberLong": "1644550251406"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6318, 6585, 50], "velocity": [4, 7, 50]}}
+{"timestamp": {"$date": {"$numberLong": "1644550251897"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6018, 51], "velocity": [1, 4, 51]}}
+{"timestamp": {"$date": {"$numberLong": "1644550252368"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6390, 6828, 52], "velocity": [4, 7, 52]}}
+{"timestamp": {"$date": {"$numberLong": "1644550252465"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6381, 6087, 53], "velocity": [4, 4, 53]}}
+{"timestamp": {"$date": {"$numberLong": "1644550252603"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6099, 6396, 54], "velocity": [1, 1, 54]}}
+{"timestamp": {"$date": {"$numberLong": "1644550252768"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6603, 6006, 55], "velocity": [7, 7, 55]}}
+{"timestamp": {"$date": {"$numberLong": "1644550253301"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6633, 6831, 56], "velocity": [1, 1, 56]}}
+{"timestamp": {"$date": {"$numberLong": "1644550253479"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6912, 6789, 57], "velocity": [7, 1, 57]}}
+{"timestamp": {"$date": {"$numberLong": "1644550253840"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6627, 6063, 58], "velocity": [4, 4, 58]}}
+{"timestamp": {"$date": {"$numberLong": "1644550254171"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6669, 6219, 59], "velocity": [7, 7, 59]}}
+{"timestamp": {"$date": {"$numberLong": "1644550254299"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6126, 6225, 60], "velocity": [1, 4, 60], "infrequent_reading": 1024}}
+{"timestamp": {"$date": {"$numberLong": "1644550254377"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6879, 6957, 61], "velocity": [1, 7, 61], "infrequent_reading": 1405}}
+{"timestamp": {"$date": {"$numberLong": "1644550254631"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6240, 6453, 62], "velocity": [1, 1, 62]}}
+{"timestamp": {"$date": {"$numberLong": "1644550254675"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6003, 6162, 63], "velocity": [4, 4, 63], "infrequent_reading": 245}}
+{"timestamp": {"$date": {"$numberLong": "1644550254962"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6672, 6036, 64], "velocity": [1, 1, 64]}}
+{"timestamp": {"$date": {"$numberLong": "1644550255106"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6177, 6405, 65], "velocity": [7, 1, 65]}}
+{"timestamp": {"$date": {"$numberLong": "1644550255641"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6666, 6090, 66], "velocity": [7, 1, 66], "infrequent_reading": 1153}}
+{"timestamp": {"$date": {"$numberLong": "1644550255848"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6237, 6780, 67], "velocity": [1, 1, 67]}}
+{"timestamp": {"$date": {"$numberLong": "1644550255945"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6534, 6975, 68], "velocity": [1, 4, 68], "infrequent_reading": 385}}
+{"timestamp": {"$date": {"$numberLong": "1644550256356"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6930, 6621, 69], "velocity": [7, 1, 69]}}
+{"timestamp": {"$date": {"$numberLong": "1644550256510"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6096, 6201, 70], "velocity": [1, 1, 70]}}
+{"timestamp": {"$date": {"$numberLong": "1644550256649"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6564, 6132, 71], "velocity": [7, 7, 71]}}
+{"timestamp": {"$date": {"$numberLong": "1644550256876"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6369, 6852, 72], "velocity": [7, 7, 72]}}
+{"timestamp": {"$date": {"$numberLong": "1644550257014"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6702, 6135, 73], "velocity": [7, 1, 73]}}
+{"timestamp": {"$date": {"$numberLong": "1644550257152"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6111, 6411, 74], "velocity": [1, 4, 74], "infrequent_reading": 1223}}
+{"timestamp": {"$date": {"$numberLong": "1644550257708"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6303, 6747, 75], "velocity": [1, 7, 75]}}
+{"timestamp": {"$date": {"$numberLong": "1644550258264"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6765, 6423, 76], "velocity": [4, 7, 76]}}
+{"timestamp": {"$date": {"$numberLong": "1644550258815"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6255, 6555, 77], "velocity": [4, 4, 77]}}
+{"timestamp": {"$date": {"$numberLong": "1644550259378"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6135, 6855, 78], "velocity": [1, 7, 78]}}
+{"timestamp": {"$date": {"$numberLong": "1644550259759"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6669, 6873, 79], "velocity": [4, 4, 79]}}
+{"timestamp": {"$date": {"$numberLong": "1644550259984"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6696, 6438, 80], "velocity": [1, 4, 80]}}
+{"timestamp": {"$date": {"$numberLong": "1644550260186"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6537, 6123, 81], "velocity": [1, 7, 81]}}
+{"timestamp": {"$date": {"$numberLong": "1644550260416"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6702, 6009, 82], "velocity": [4, 7, 82]}}
+{"timestamp": {"$date": {"$numberLong": "1644550260858"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6762, 6711, 83], "velocity": [1, 7, 83], "infrequent_reading": 490}}
+{"timestamp": {"$date": {"$numberLong": "1644550261415"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6165, 6888, 84], "velocity": [1, 4, 84]}}
+{"timestamp": {"$date": {"$numberLong": "1644550261623"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6870, 6639, 85], "velocity": [1, 1, 85]}}
+{"timestamp": {"$date": {"$numberLong": "1644550262013"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6357, 6903, 86], "velocity": [1, 1, 86]}}
+{"timestamp": {"$date": {"$numberLong": "1644550262110"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6993, 6459, 87], "velocity": [1, 4, 87]}}
+{"timestamp": {"$date": {"$numberLong": "1644550262673"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6009, 6564, 88], "velocity": [4, 1, 88]}}
+{"timestamp": {"$date": {"$numberLong": "1644550263191"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6258, 6060, 89], "velocity": [4, 7, 89]}}
+{"timestamp": {"$date": {"$numberLong": "1644550263695"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6504, 6366, 90], "velocity": [7, 7, 90]}}
+{"timestamp": {"$date": {"$numberLong": "1644550264105"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6255, 6966, 91], "velocity": [7, 4, 91]}}
+{"timestamp": {"$date": {"$numberLong": "1644550264375"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6429, 6261, 92], "velocity": [4, 1, 92]}}
+{"timestamp": {"$date": {"$numberLong": "1644550264626"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6645, 6624, 93], "velocity": [7, 1, 93], "infrequent_reading": 640}}
+{"timestamp": {"$date": {"$numberLong": "1644550264840"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6129, 6135, 94], "velocity": [4, 7, 94]}}
+{"timestamp": {"$date": {"$numberLong": "1644550264966"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6825, 6843, 95], "velocity": [7, 1, 95]}}
+{"timestamp": {"$date": {"$numberLong": "1644550265278"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6759, 6834, 96], "velocity": [7, 1, 96]}}
+{"timestamp": {"$date": {"$numberLong": "1644550265556"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6759, 6084, 97], "velocity": [4, 1, 97]}}
+{"timestamp": {"$date": {"$numberLong": "1644550265979"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6147, 6114, 98], "velocity": [4, 4, 98], "infrequent_reading": 921}}
+{"timestamp": {"$date": {"$numberLong": "1644550266502"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6441, 6693, 99], "velocity": [4, 7, 99]}}
+{"timestamp": {"$date": {"$numberLong": "1644550266899"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6054, 6894, 100], "velocity": [7, 1, 100]}}
+{"timestamp": {"$date": {"$numberLong": "1644550267076"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6861, 6174, 101], "velocity": [1, 1, 101]}}
+{"timestamp": {"$date": {"$numberLong": "1644550267567"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6885, 6348, 102], "velocity": [1, 7, 102]}}
+{"timestamp": {"$date": {"$numberLong": "1644550267826"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6942, 6288, 103], "velocity": [1, 1, 103]}}
+{"timestamp": {"$date": {"$numberLong": "1644550268407"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6117, 6747, 104], "velocity": [1, 4, 104]}}
+{"timestamp": {"$date": {"$numberLong": "1644550268791"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6828, 6159, 105], "velocity": [4, 7, 105]}}
+{"timestamp": {"$date": {"$numberLong": "1644550269051"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6873, 6153, 106], "velocity": [7, 4, 106]}}
+{"timestamp": {"$date": {"$numberLong": "1644550269157"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6591, 6225, 107], "velocity": [1, 4, 107]}}
+{"timestamp": {"$date": {"$numberLong": "1644550269198"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6048, 6297, 108], "velocity": [7, 1, 108]}}
+{"timestamp": {"$date": {"$numberLong": "1644550269687"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6984, 6696, 109], "velocity": [1, 7, 109]}}
+{"timestamp": {"$date": {"$numberLong": "1644550270187"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6534, 6102, 110], "velocity": [1, 7, 110]}}
+{"timestamp": {"$date": {"$numberLong": "1644550270789"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6780, 6198, 111], "velocity": [4, 7, 111], "infrequent_reading": 831}}
+{"timestamp": {"$date": {"$numberLong": "1644550270833"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6081, 6207, 112], "velocity": [4, 4, 112], "infrequent_reading": 566}}
+{"timestamp": {"$date": {"$numberLong": "1644550271042"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6792, 6384, 113], "velocity": [1, 7, 113]}}
+{"timestamp": {"$date": {"$numberLong": "1644550271586"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6567, 6291, 114], "velocity": [1, 7, 114]}}
+{"timestamp": {"$date": {"$numberLong": "1644550271744"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6204, 6042, 115], "velocity": [1, 4, 115], "infrequent_reading": 1218}}
+{"timestamp": {"$date": {"$numberLong": "1644550272112"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6066, 6993, 116], "velocity": [4, 7, 116]}}
+{"timestamp": {"$date": {"$numberLong": "1644550272686"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6468, 6000, 117], "velocity": [1, 1, 117], "infrequent_reading": 101}}
+{"timestamp": {"$date": {"$numberLong": "1644550273023"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6798, 6483, 118], "velocity": [4, 7, 118]}}
+{"timestamp": {"$date": {"$numberLong": "1644550273134"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6036, 6186, 119], "velocity": [7, 7, 119]}}
+{"timestamp": {"$date": {"$numberLong": "1644550273391"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6534, 6297, 120], "velocity": [7, 7, 120]}}
+{"timestamp": {"$date": {"$numberLong": "1644550273857"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6003, 6933, 121], "velocity": [7, 4, 121]}}
+{"timestamp": {"$date": {"$numberLong": "1644550274007"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6351, 6870, 122], "velocity": [1, 7, 122], "infrequent_reading": 1819}}
+{"timestamp": {"$date": {"$numberLong": "1644550274434"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6270, 6303, 123], "velocity": [1, 7, 123], "infrequent_reading": 903}}
+{"timestamp": {"$date": {"$numberLong": "1644550274527"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6453, 6618, 124], "velocity": [4, 1, 124]}}
+{"timestamp": {"$date": {"$numberLong": "1644550274654"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6855, 125], "velocity": [4, 1, 125]}}
+{"timestamp": {"$date": {"$numberLong": "1644550274938"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6672, 6300, 126], "velocity": [7, 4, 126]}}
+{"timestamp": {"$date": {"$numberLong": "1644550275142"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6846, 6093, 127], "velocity": [1, 7, 127], "infrequent_reading": 554}}
+{"timestamp": {"$date": {"$numberLong": "1644550275611"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6738, 6984, 128], "velocity": [7, 7, 128]}}
+{"timestamp": {"$date": {"$numberLong": "1644550275875"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6300, 6579, 129], "velocity": [4, 4, 129], "infrequent_reading": 686}}
+{"timestamp": {"$date": {"$numberLong": "1644550276427"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6252, 6279, 130], "velocity": [7, 7, 130]}}
+{"timestamp": {"$date": {"$numberLong": "1644550276743"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6975, 6372, 131], "velocity": [7, 7, 131]}}
+{"timestamp": {"$date": {"$numberLong": "1644550281961"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6360, 6579, 132], "velocity": [4, 1, 132], "infrequent_reading": 171}}
+{"timestamp": {"$date": {"$numberLong": "1644550282195"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6525, 6111, 133], "velocity": [7, 7, 133]}}
+{"timestamp": {"$date": {"$numberLong": "1644550282658"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6069, 6573, 134], "velocity": [1, 1, 134]}}
+{"timestamp": {"$date": {"$numberLong": "1644550283089"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6402, 6630, 135], "velocity": [7, 4, 135]}}
+{"timestamp": {"$date": {"$numberLong": "1644550283553"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6138, 6318, 136], "velocity": [7, 4, 136]}}
+{"timestamp": {"$date": {"$numberLong": "1644550283931"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6636, 6843, 137], "velocity": [1, 1, 137], "infrequent_reading": 124}}
+{"timestamp": {"$date": {"$numberLong": "1644550283964"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6639, 6420, 138], "velocity": [1, 4, 138]}}
+{"timestamp": {"$date": {"$numberLong": "1644550284039"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6054, 6312, 139], "velocity": [4, 7, 139], "infrequent_reading": 1059}}
+{"timestamp": {"$date": {"$numberLong": "1644550284368"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6576, 6627, 140], "velocity": [7, 1, 140]}}
+{"timestamp": {"$date": {"$numberLong": "1644550284493"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6162, 6693, 141], "velocity": [4, 1, 141]}}
+{"timestamp": {"$date": {"$numberLong": "1644550285037"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6825, 6849, 142], "velocity": [7, 4, 142]}}
+{"timestamp": {"$date": {"$numberLong": "1644550285567"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6276, 6903, 143], "velocity": [7, 4, 143]}}
+{"timestamp": {"$date": {"$numberLong": "1644550286187"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6222, 6540, 144], "velocity": [7, 4, 144], "infrequent_reading": 1570}}
+{"timestamp": {"$date": {"$numberLong": "1644550286476"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6138, 6960, 145], "velocity": [4, 4, 145], "infrequent_reading": 1380}}
+{"timestamp": {"$date": {"$numberLong": "1644550286727"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6561, 6975, 146], "velocity": [7, 7, 146]}}
+{"timestamp": {"$date": {"$numberLong": "1644550287228"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6693, 6762, 147], "velocity": [7, 4, 147]}}
+{"timestamp": {"$date": {"$numberLong": "1644550287530"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6744, 6771, 148], "velocity": [7, 1, 148]}}
+{"timestamp": {"$date": {"$numberLong": "1644550287802"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6222, 6795, 149], "velocity": [4, 7, 149]}}
+{"timestamp": {"$date": {"$numberLong": "1644550288434"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6453, 6540, 150], "velocity": [7, 1, 150]}}
+{"timestamp": {"$date": {"$numberLong": "1644550288851"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6585, 6549, 151], "velocity": [4, 1, 151]}}
+{"timestamp": {"$date": {"$numberLong": "1644550289244"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6297, 6108, 152], "velocity": [7, 1, 152]}}
+{"timestamp": {"$date": {"$numberLong": "1644550289643"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6819, 6675, 153], "velocity": [7, 1, 153]}}
+{"timestamp": {"$date": {"$numberLong": "1644550290087"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6309, 6672, 154], "velocity": [4, 1, 154]}}
+{"timestamp": {"$date": {"$numberLong": "1644550290362"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6066, 6324, 155], "velocity": [4, 1, 155]}}
+{"timestamp": {"$date": {"$numberLong": "1644550290763"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6183, 6315, 156], "velocity": [7, 7, 156]}}
+{"timestamp": {"$date": {"$numberLong": "1644550291085"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6153, 6201, 157], "velocity": [7, 1, 157]}}
+{"timestamp": {"$date": {"$numberLong": "1644550291391"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6570, 6033, 158], "velocity": [1, 4, 158], "infrequent_reading": 328}}
+{"timestamp": {"$date": {"$numberLong": "1644550291556"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6951, 6267, 159], "velocity": [7, 4, 159]}}
+{"timestamp": {"$date": {"$numberLong": "1644550291615"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6981, 6042, 160], "velocity": [7, 4, 160]}}
+{"timestamp": {"$date": {"$numberLong": "1644550292031"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6822, 6594, 161], "velocity": [1, 1, 161], "infrequent_reading": 99}}
+{"timestamp": {"$date": {"$numberLong": "1644550292118"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6099, 6501, 162], "velocity": [4, 4, 162], "infrequent_reading": 1371}}
+{"timestamp": {"$date": {"$numberLong": "1644550292217"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6771, 6531, 163], "velocity": [4, 1, 163]}}
+{"timestamp": {"$date": {"$numberLong": "1644550292696"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6990, 6903, 164], "velocity": [7, 1, 164]}}
+{"timestamp": {"$date": {"$numberLong": "1644550293147"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6333, 6861, 165], "velocity": [7, 7, 165], "infrequent_reading": 525}}
+{"timestamp": {"$date": {"$numberLong": "1644550293727"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6366, 6726, 166], "velocity": [4, 1, 166]}}
+{"timestamp": {"$date": {"$numberLong": "1644550294129"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6969, 6717, 167], "velocity": [7, 1, 167]}}
+{"timestamp": {"$date": {"$numberLong": "1644550294694"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6993, 6951, 168], "velocity": [4, 4, 168]}}
+{"timestamp": {"$date": {"$numberLong": "1644550295141"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6831, 6873, 169], "velocity": [7, 7, 169]}}
+{"timestamp": {"$date": {"$numberLong": "1644550295372"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6711, 6756, 170], "velocity": [7, 7, 170]}}
+{"timestamp": {"$date": {"$numberLong": "1644550295916"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6921, 6201, 171], "velocity": [7, 4, 171]}}
+{"timestamp": {"$date": {"$numberLong": "1644550296222"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6147, 6915, 172], "velocity": [7, 1, 172], "infrequent_reading": 1222}}
+{"timestamp": {"$date": {"$numberLong": "1644550296258"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6921, 6855, 173], "velocity": [4, 7, 173]}}
+{"timestamp": {"$date": {"$numberLong": "1644550296847"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6921, 6606, 174], "velocity": [4, 1, 174]}}
+{"timestamp": {"$date": {"$numberLong": "1644550296954"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6015, 6447, 175], "velocity": [7, 7, 175]}}
+{"timestamp": {"$date": {"$numberLong": "1644550297300"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6933, 6978, 176], "velocity": [4, 7, 176]}}
+{"timestamp": {"$date": {"$numberLong": "1644550297342"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6687, 6783, 177], "velocity": [1, 7, 177]}}
+{"timestamp": {"$date": {"$numberLong": "1644550297437"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6561, 6219, 178], "velocity": [1, 7, 178]}}
+{"timestamp": {"$date": {"$numberLong": "1644550297673"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6492, 179], "velocity": [4, 1, 179], "infrequent_reading": 38}}
+{"timestamp": {"$date": {"$numberLong": "1644550298031"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6684, 6402, 180], "velocity": [7, 4, 180]}}
+{"timestamp": {"$date": {"$numberLong": "1644550303404"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6243, 6774, 181], "velocity": [1, 4, 181]}}
+{"timestamp": {"$date": {"$numberLong": "1644550303761"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6066, 6921, 182], "velocity": [7, 4, 182]}}
+{"timestamp": {"$date": {"$numberLong": "1644550303847"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6876, 6324, 183], "velocity": [1, 1, 183]}}
+{"timestamp": {"$date": {"$numberLong": "1644550309466"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6762, 6597, 184], "velocity": [7, 7, 184]}}
+{"timestamp": {"$date": {"$numberLong": "1644550309709"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6516, 6009, 185], "velocity": [1, 1, 185]}}
+{"timestamp": {"$date": {"$numberLong": "1644550309955"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6708, 6873, 186], "velocity": [4, 4, 186]}}
+{"timestamp": {"$date": {"$numberLong": "1644550310282"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6123, 6201, 187], "velocity": [4, 7, 187]}}
+{"timestamp": {"$date": {"$numberLong": "1644550310330"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6174, 6933, 188], "velocity": [1, 4, 188]}}
+{"timestamp": {"$date": {"$numberLong": "1644550310805"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6030, 6459, 189], "velocity": [7, 4, 189]}}
+{"timestamp": {"$date": {"$numberLong": "1644550311419"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6669, 6918, 190], "velocity": [7, 7, 190]}}
+{"timestamp": {"$date": {"$numberLong": "1644550311739"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6687, 6948, 191], "velocity": [7, 7, 191], "infrequent_reading": 1179}}
+{"timestamp": {"$date": {"$numberLong": "1644550311933"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6591, 6771, 192], "velocity": [7, 7, 192]}}
+{"timestamp": {"$date": {"$numberLong": "1644550312434"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6417, 6822, 193], "velocity": [7, 1, 193]}}
+{"timestamp": {"$date": {"$numberLong": "1644550312815"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6747, 6660, 194], "velocity": [4, 7, 194]}}
+{"timestamp": {"$date": {"$numberLong": "1644550313020"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6273, 6114, 195], "velocity": [1, 4, 195]}}
+{"timestamp": {"$date": {"$numberLong": "1644550313063"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6474, 6045, 196], "velocity": [1, 7, 196], "infrequent_reading": 632}}
+{"timestamp": {"$date": {"$numberLong": "1644550313695"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6702, 6345, 197], "velocity": [1, 7, 197]}}
+{"timestamp": {"$date": {"$numberLong": "1644550314157"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6168, 6111, 198], "velocity": [7, 7, 198]}}
+{"timestamp": {"$date": {"$numberLong": "1644550314632"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6687, 6582, 199], "velocity": [1, 7, 199], "infrequent_reading": 78}}
+{"timestamp": {"$date": {"$numberLong": "1644550314669"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6294, 6138, 200], "velocity": [4, 7, 200]}}
+{"timestamp": {"$date": {"$numberLong": "1644550315197"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6399, 6843, 201], "velocity": [4, 1, 201]}}
+{"timestamp": {"$date": {"$numberLong": "1644550315285"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6039, 6147, 202], "velocity": [4, 1, 202]}}
+{"timestamp": {"$date": {"$numberLong": "1644550315558"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6300, 6486, 203], "velocity": [1, 7, 203]}}
+{"timestamp": {"$date": {"$numberLong": "1644550315633"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6090, 6210, 204], "velocity": [1, 4, 204]}}
+{"timestamp": {"$date": {"$numberLong": "1644550315736"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6000, 6231, 205], "velocity": [7, 1, 205]}}
+{"timestamp": {"$date": {"$numberLong": "1644550321205"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6873, 6306, 206], "velocity": [4, 4, 206], "infrequent_reading": 913}}
+{"timestamp": {"$date": {"$numberLong": "1644550321344"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6450, 6702, 207], "velocity": [7, 4, 207], "infrequent_reading": 479}}
+{"timestamp": {"$date": {"$numberLong": "1644550321806"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6345, 6021, 208], "velocity": [4, 1, 208]}}
+{"timestamp": {"$date": {"$numberLong": "1644550322071"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6111, 6606, 209], "velocity": [7, 7, 209]}}
+{"timestamp": {"$date": {"$numberLong": "1644550322365"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6822, 6084, 210], "velocity": [4, 4, 210]}}
+{"timestamp": {"$date": {"$numberLong": "1644550322745"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6708, 6477, 211], "velocity": [4, 7, 211]}}
+{"timestamp": {"$date": {"$numberLong": "1644550322909"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6627, 6489, 212], "velocity": [4, 4, 212]}}
+{"timestamp": {"$date": {"$numberLong": "1644550328226"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6612, 6489, 213], "velocity": [4, 7, 213]}}
+{"timestamp": {"$date": {"$numberLong": "1644550328600"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6921, 6561, 214], "velocity": [1, 4, 214], "infrequent_reading": 573}}
+{"timestamp": {"$date": {"$numberLong": "1644550328767"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6018, 6390, 215], "velocity": [4, 4, 215]}}
+{"timestamp": {"$date": {"$numberLong": "1644550328947"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6579, 6054, 216], "velocity": [7, 4, 216]}}
+{"timestamp": {"$date": {"$numberLong": "1644550329311"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6930, 6411, 217], "velocity": [4, 1, 217]}}
+{"timestamp": {"$date": {"$numberLong": "1644550329565"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6519, 6384, 218], "velocity": [1, 1, 218]}}
+{"timestamp": {"$date": {"$numberLong": "1644550329679"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6219, 6483, 219], "velocity": [1, 7, 219]}}
+{"timestamp": {"$date": {"$numberLong": "1644550330280"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6195, 6441, 220], "velocity": [7, 4, 220], "infrequent_reading": 1889}}
+{"timestamp": {"$date": {"$numberLong": "1644550330827"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6672, 6750, 221], "velocity": [1, 4, 221]}}
+{"timestamp": {"$date": {"$numberLong": "1644550331247"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6237, 6807, 222], "velocity": [7, 1, 222], "infrequent_reading": 650}}
+{"timestamp": {"$date": {"$numberLong": "1644550331778"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6867, 6789, 223], "velocity": [1, 1, 223], "infrequent_reading": 786}}
+{"timestamp": {"$date": {"$numberLong": "1644550332107"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6402, 6120, 224], "velocity": [4, 7, 224]}}
+{"timestamp": {"$date": {"$numberLong": "1644550332493"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6567, 6501, 225], "velocity": [7, 4, 225]}}
+{"timestamp": {"$date": {"$numberLong": "1644550332660"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6348, 6810, 226], "velocity": [7, 1, 226]}}
+{"timestamp": {"$date": {"$numberLong": "1644550332942"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6096, 6456, 227], "velocity": [7, 7, 227]}}
+{"timestamp": {"$date": {"$numberLong": "1644550333199"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6687, 6990, 228], "velocity": [4, 4, 228]}}
+{"timestamp": {"$date": {"$numberLong": "1644550333330"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6570, 6747, 229], "velocity": [1, 7, 229]}}
+{"timestamp": {"$date": {"$numberLong": "1644550333693"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6717, 6714, 230], "velocity": [7, 4, 230]}}
+{"timestamp": {"$date": {"$numberLong": "1644550339066"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6858, 6285, 231], "velocity": [7, 7, 231]}}
+{"timestamp": {"$date": {"$numberLong": "1644550339344"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6141, 6204, 232], "velocity": [1, 7, 232]}}
+{"timestamp": {"$date": {"$numberLong": "1644550339621"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6738, 6246, 233], "velocity": [4, 7, 233]}}
+{"timestamp": {"$date": {"$numberLong": "1644550339791"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6966, 6873, 234], "velocity": [1, 4, 234]}}
+{"timestamp": {"$date": {"$numberLong": "1644550340178"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6918, 6957, 235], "velocity": [4, 7, 235]}}
+{"timestamp": {"$date": {"$numberLong": "1644550340222"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6174, 6966, 236], "velocity": [7, 4, 236]}}
+{"timestamp": {"$date": {"$numberLong": "1644550340676"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6375, 6570, 237], "velocity": [7, 4, 237], "infrequent_reading": 1980}}
+{"timestamp": {"$date": {"$numberLong": "1644550341219"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6942, 6135, 238], "velocity": [1, 1, 238], "infrequent_reading": 577}}
+{"timestamp": {"$date": {"$numberLong": "1644550341483"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6387, 6798, 239], "velocity": [7, 1, 239]}}
+{"timestamp": {"$date": {"$numberLong": "1644550341587"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6327, 6054, 240], "velocity": [4, 7, 240], "infrequent_reading": 317}}
+{"timestamp": {"$date": {"$numberLong": "1644550342051"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6042, 6342, 241], "velocity": [7, 4, 241]}}
+{"timestamp": {"$date": {"$numberLong": "1644550342284"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6465, 6777, 242], "velocity": [4, 1, 242], "infrequent_reading": 926}}
+{"timestamp": {"$date": {"$numberLong": "1644550342687"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6360, 6048, 243], "velocity": [1, 7, 243]}}
+{"timestamp": {"$date": {"$numberLong": "1644550342848"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6909, 6615, 244], "velocity": [1, 7, 244]}}
+{"timestamp": {"$date": {"$numberLong": "1644550343134"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6120, 6738, 245], "velocity": [4, 4, 245]}}
+{"timestamp": {"$date": {"$numberLong": "1644550343422"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6657, 6561, 246], "velocity": [7, 4, 246]}}
+{"timestamp": {"$date": {"$numberLong": "1644550343557"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6333, 6117, 247], "velocity": [4, 4, 247]}}
+{"timestamp": {"$date": {"$numberLong": "1644550343994"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6072, 6915, 248], "velocity": [1, 7, 248]}}
+{"timestamp": {"$date": {"$numberLong": "1644550344248"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6285, 6627, 249], "velocity": [4, 1, 249]}}
+{"timestamp": {"$date": {"$numberLong": "1644550344397"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6234, 6966, 250], "velocity": [7, 4, 250]}}
+{"timestamp": {"$date": {"$numberLong": "1644550344894"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6660, 6528, 251], "velocity": [4, 1, 251]}}
+{"timestamp": {"$date": {"$numberLong": "1644550345373"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6330, 6534, 252], "velocity": [7, 7, 252]}}
+{"timestamp": {"$date": {"$numberLong": "1644550345478"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6306, 6498, 253], "velocity": [1, 7, 253]}}
+{"timestamp": {"$date": {"$numberLong": "1644550345725"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6279, 6672, 254], "velocity": [1, 4, 254]}}
+{"timestamp": {"$date": {"$numberLong": "1644550350931"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6789, 6882, 255], "velocity": [7, 1, 255]}}
+{"timestamp": {"$date": {"$numberLong": "1644550351338"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6321, 6000, 256], "velocity": [7, 4, 256]}}
+{"timestamp": {"$date": {"$numberLong": "1644550351540"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6918, 6543, 257], "velocity": [1, 1, 257]}}
+{"timestamp": {"$date": {"$numberLong": "1644550352116"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6309, 6015, 258], "velocity": [1, 7, 258]}}
+{"timestamp": {"$date": {"$numberLong": "1644550352363"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6132, 6261, 259], "velocity": [4, 1, 259], "infrequent_reading": 1387}}
+{"timestamp": {"$date": {"$numberLong": "1644550352476"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6282, 6096, 260], "velocity": [1, 7, 260]}}
+{"timestamp": {"$date": {"$numberLong": "1644550352668"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6105, 6261, 261], "velocity": [7, 1, 261]}}
+{"timestamp": {"$date": {"$numberLong": "1644550353050"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6930, 6207, 262], "velocity": [4, 1, 262], "infrequent_reading": 867}}
+{"timestamp": {"$date": {"$numberLong": "1644550353611"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6906, 6918, 263], "velocity": [4, 1, 263]}}
+{"timestamp": {"$date": {"$numberLong": "1644550354032"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6714, 6759, 264], "velocity": [7, 7, 264], "infrequent_reading": 181}}
+{"timestamp": {"$date": {"$numberLong": "1644550354304"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6333, 6543, 265], "velocity": [4, 1, 265]}}
+{"timestamp": {"$date": {"$numberLong": "1644550354831"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6738, 6657, 266], "velocity": [1, 7, 266]}}
+{"timestamp": {"$date": {"$numberLong": "1644550355372"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6267, 6657, 267], "velocity": [7, 4, 267]}}
+{"timestamp": {"$date": {"$numberLong": "1644550355632"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6471, 6984, 268], "velocity": [1, 7, 268]}}
+{"timestamp": {"$date": {"$numberLong": "1644550356072"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6666, 6471, 269], "velocity": [7, 4, 269], "infrequent_reading": 1569}}
+{"timestamp": {"$date": {"$numberLong": "1644550356478"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6435, 6687, 270], "velocity": [4, 1, 270], "infrequent_reading": 962}}
+{"timestamp": {"$date": {"$numberLong": "1644550356512"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6258, 6816, 271], "velocity": [1, 7, 271]}}
+{"timestamp": {"$date": {"$numberLong": "1644550356965"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6990, 6744, 272], "velocity": [7, 7, 272], "infrequent_reading": 33}}
+{"timestamp": {"$date": {"$numberLong": "1644550357147"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6144, 6204, 273], "velocity": [4, 4, 273]}}
+{"timestamp": {"$date": {"$numberLong": "1644550357257"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6837, 6582, 274], "velocity": [7, 4, 274]}}
+{"timestamp": {"$date": {"$numberLong": "1644550357637"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6546, 6657, 275], "velocity": [7, 7, 275]}}
+{"timestamp": {"$date": {"$numberLong": "1644550358266"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6810, 6171, 276], "velocity": [1, 7, 276]}}
+{"timestamp": {"$date": {"$numberLong": "1644550358729"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6681, 6261, 277], "velocity": [4, 7, 277]}}
+{"timestamp": {"$date": {"$numberLong": "1644550359330"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6690, 6450, 278], "velocity": [1, 4, 278]}}
+{"timestamp": {"$date": {"$numberLong": "1644550359788"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6195, 6270, 279], "velocity": [4, 4, 279]}}
+{"timestamp": {"$date": {"$numberLong": "1644550360311"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6987, 6762, 280], "velocity": [4, 4, 280]}}
+{"timestamp": {"$date": {"$numberLong": "1644550360625"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6006, 6927, 281], "velocity": [4, 4, 281]}}
+{"timestamp": {"$date": {"$numberLong": "1644550360941"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6549, 6759, 282], "velocity": [4, 1, 282]}}
+{"timestamp": {"$date": {"$numberLong": "1644550361362"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6234, 6849, 283], "velocity": [4, 1, 283]}}
+{"timestamp": {"$date": {"$numberLong": "1644550361404"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6690, 6015, 284], "velocity": [4, 4, 284], "infrequent_reading": 302}}
+{"timestamp": {"$date": {"$numberLong": "1644550361747"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6720, 6276, 285], "velocity": [7, 1, 285]}}
+{"timestamp": {"$date": {"$numberLong": "1644550362016"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6108, 6069, 286], "velocity": [7, 7, 286]}}
+{"timestamp": {"$date": {"$numberLong": "1644550367110"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6654, 6927, 287], "velocity": [7, 4, 287], "infrequent_reading": 1778}}
+{"timestamp": {"$date": {"$numberLong": "1644550367175"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6957, 6123, 288], "velocity": [7, 4, 288]}}
+{"timestamp": {"$date": {"$numberLong": "1644550367710"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6222, 6114, 289], "velocity": [1, 1, 289], "infrequent_reading": 851}}
+{"timestamp": {"$date": {"$numberLong": "1644550367949"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6654, 6054, 290], "velocity": [7, 1, 290], "infrequent_reading": 504}}
+{"timestamp": {"$date": {"$numberLong": "1644550368047"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6939, 6123, 291], "velocity": [7, 4, 291]}}
+{"timestamp": {"$date": {"$numberLong": "1644550368141"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6024, 6333, 292], "velocity": [7, 7, 292], "infrequent_reading": 1175}}
+{"timestamp": {"$date": {"$numberLong": "1644550368447"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6546, 6726, 293], "velocity": [7, 4, 293]}}
+{"timestamp": {"$date": {"$numberLong": "1644550368612"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6048, 6858, 294], "velocity": [7, 7, 294]}}
+{"timestamp": {"$date": {"$numberLong": "1644550368908"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6984, 6666, 295], "velocity": [7, 4, 295]}}
+{"timestamp": {"$date": {"$numberLong": "1644550369404"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6051, 6258, 296], "velocity": [7, 4, 296], "infrequent_reading": 153}}
+{"timestamp": {"$date": {"$numberLong": "1644550369922"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6159, 6747, 297], "velocity": [7, 1, 297]}}
+{"timestamp": {"$date": {"$numberLong": "1644550370021"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6636, 6933, 298], "velocity": [4, 4, 298]}}
+{"timestamp": {"$date": {"$numberLong": "1644550370472"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6708, 6663, 299], "velocity": [4, 4, 299]}}
+{"timestamp": {"$date": {"$numberLong": "1644550370811"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6300, 6555, 300], "velocity": [1, 4, 300]}}
+{"timestamp": {"$date": {"$numberLong": "1644550371083"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6252, 6435, 301], "velocity": [4, 1, 301], "infrequent_reading": 619}}
+{"timestamp": {"$date": {"$numberLong": "1644550371406"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6813, 6627, 302], "velocity": [7, 4, 302]}}
+{"timestamp": {"$date": {"$numberLong": "1644550371517"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6474, 6474, 303], "velocity": [1, 4, 303]}}
+{"timestamp": {"$date": {"$numberLong": "1644550371883"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6735, 6675, 304], "velocity": [1, 7, 304]}}
+{"timestamp": {"$date": {"$numberLong": "1644550372221"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6096, 6291, 305], "velocity": [7, 7, 305], "infrequent_reading": 1298}}
+{"timestamp": {"$date": {"$numberLong": "1644550372811"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6201, 6234, 306], "velocity": [4, 1, 306]}}
+{"timestamp": {"$date": {"$numberLong": "1644550372859"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6261, 6795, 307], "velocity": [4, 4, 307]}}
+{"timestamp": {"$date": {"$numberLong": "1644550373152"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6588, 6366, 308], "velocity": [4, 7, 308], "infrequent_reading": 1814}}
+{"timestamp": {"$date": {"$numberLong": "1644550373511"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6141, 6669, 309], "velocity": [1, 1, 309]}}
+{"timestamp": {"$date": {"$numberLong": "1644550373991"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6840, 6558, 310], "velocity": [7, 7, 310]}}
+{"timestamp": {"$date": {"$numberLong": "1644550374421"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6861, 6528, 311], "velocity": [7, 7, 311], "infrequent_reading": 1995}}
+{"timestamp": {"$date": {"$numberLong": "1644550374694"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6762, 6111, 312], "velocity": [7, 1, 312]}}
+{"timestamp": {"$date": {"$numberLong": "1644550374996"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6849, 6738, 313], "velocity": [7, 7, 313], "infrequent_reading": 1037}}
+{"timestamp": {"$date": {"$numberLong": "1644550375163"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6474, 6705, 314], "velocity": [4, 4, 314]}}
+{"timestamp": {"$date": {"$numberLong": "1644550375501"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6144, 6090, 315], "velocity": [7, 4, 315], "infrequent_reading": 1506}}
+{"timestamp": {"$date": {"$numberLong": "1644550376051"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6564, 6870, 316], "velocity": [1, 7, 316], "infrequent_reading": 1721}}
+{"timestamp": {"$date": {"$numberLong": "1644550376519"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6711, 6477, 317], "velocity": [7, 4, 317], "infrequent_reading": 959}}
+{"timestamp": {"$date": {"$numberLong": "1644550376649"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6816, 6063, 318], "velocity": [7, 4, 318]}}
+{"timestamp": {"$date": {"$numberLong": "1644550377221"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6720, 6753, 319], "velocity": [4, 1, 319]}}
+{"timestamp": {"$date": {"$numberLong": "1644550377474"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6123, 6576, 320], "velocity": [4, 1, 320]}}
+{"timestamp": {"$date": {"$numberLong": "1644550377515"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6735, 6375, 321], "velocity": [7, 7, 321]}}
+{"timestamp": {"$date": {"$numberLong": "1644550377850"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6156, 6357, 322], "velocity": [7, 4, 322]}}
+{"timestamp": {"$date": {"$numberLong": "1644550378237"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6399, 6759, 323], "velocity": [4, 4, 323]}}
+{"timestamp": {"$date": {"$numberLong": "1644550378781"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6297, 6948, 324], "velocity": [1, 7, 324]}}
+{"timestamp": {"$date": {"$numberLong": "1644550378922"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6189, 6270, 325], "velocity": [1, 4, 325], "infrequent_reading": 1893}}
+{"timestamp": {"$date": {"$numberLong": "1644550379273"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6123, 6801, 326], "velocity": [1, 4, 326], "infrequent_reading": 1522}}
+{"timestamp": {"$date": {"$numberLong": "1644550379370"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6732, 6042, 327], "velocity": [1, 4, 327], "infrequent_reading": 626}}
+{"timestamp": {"$date": {"$numberLong": "1644550379452"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6150, 6933, 328], "velocity": [1, 1, 328]}}
+{"timestamp": {"$date": {"$numberLong": "1644550384793"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6282, 6621, 329], "velocity": [4, 1, 329]}}
+{"timestamp": {"$date": {"$numberLong": "1644550384851"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6648, 6906, 330], "velocity": [1, 4, 330]}}
+{"timestamp": {"$date": {"$numberLong": "1644550385289"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6231, 6396, 331], "velocity": [4, 7, 331]}}
+{"timestamp": {"$date": {"$numberLong": "1644550385661"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6294, 6216, 332], "velocity": [4, 4, 332]}}
+{"timestamp": {"$date": {"$numberLong": "1644550385990"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6624, 6144, 333], "velocity": [4, 7, 333]}}
+{"timestamp": {"$date": {"$numberLong": "1644550386066"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6258, 6309, 334], "velocity": [1, 4, 334]}}
+{"timestamp": {"$date": {"$numberLong": "1644550386220"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6264, 6504, 335], "velocity": [4, 1, 335], "infrequent_reading": 107}}
+{"timestamp": {"$date": {"$numberLong": "1644550386393"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6840, 6417, 336], "velocity": [1, 1, 336]}}
+{"timestamp": {"$date": {"$numberLong": "1644550386747"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6429, 6765, 337], "velocity": [7, 1, 337]}}
+{"timestamp": {"$date": {"$numberLong": "1644550387037"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6570, 6678, 338], "velocity": [1, 7, 338]}}
+{"timestamp": {"$date": {"$numberLong": "1644550387310"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6504, 6324, 339], "velocity": [1, 1, 339]}}
+{"timestamp": {"$date": {"$numberLong": "1644550387545"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6984, 6138, 340], "velocity": [1, 1, 340]}}
+{"timestamp": {"$date": {"$numberLong": "1644550387878"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6783, 341], "velocity": [4, 4, 341]}}
+{"timestamp": {"$date": {"$numberLong": "1644550388067"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6939, 6459, 342], "velocity": [7, 7, 342], "infrequent_reading": 544}}
+{"timestamp": {"$date": {"$numberLong": "1644550388338"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6141, 6966, 343], "velocity": [7, 1, 343]}}
+{"timestamp": {"$date": {"$numberLong": "1644550388511"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6870, 6075, 344], "velocity": [1, 7, 344]}}
+{"timestamp": {"$date": {"$numberLong": "1644550389026"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6804, 345], "velocity": [7, 7, 345]}}
+{"timestamp": {"$date": {"$numberLong": "1644550389327"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6528, 6339, 346], "velocity": [7, 1, 346]}}
+{"timestamp": {"$date": {"$numberLong": "1644550389763"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6096, 6642, 347], "velocity": [7, 1, 347]}}
+{"timestamp": {"$date": {"$numberLong": "1644550390018"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6306, 6414, 348], "velocity": [4, 1, 348]}}
+{"timestamp": {"$date": {"$numberLong": "1644550390263"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6507, 6474, 349], "velocity": [7, 7, 349]}}
+{"timestamp": {"$date": {"$numberLong": "1644550390634"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6690, 6546, 350], "velocity": [1, 4, 350]}}
+{"timestamp": {"$date": {"$numberLong": "1644550390957"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6735, 6192, 351], "velocity": [4, 7, 351], "infrequent_reading": 522}}
+{"timestamp": {"$date": {"$numberLong": "1644550391160"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6261, 6000, 352], "velocity": [1, 1, 352]}}
+{"timestamp": {"$date": {"$numberLong": "1644550391414"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6558, 6651, 353], "velocity": [4, 1, 353]}}
+{"timestamp": {"$date": {"$numberLong": "1644550391493"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6618, 6417, 354], "velocity": [4, 1, 354]}}
+{"timestamp": {"$date": {"$numberLong": "1644550391835"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6699, 6216, 355], "velocity": [7, 4, 355]}}
+{"timestamp": {"$date": {"$numberLong": "1644550392258"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6771, 6837, 356], "velocity": [4, 1, 356]}}
+{"timestamp": {"$date": {"$numberLong": "1644550392774"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6171, 6168, 357], "velocity": [1, 4, 357]}}
+{"timestamp": {"$date": {"$numberLong": "1644550393052"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6666, 6276, 358], "velocity": [1, 4, 358]}}
+{"timestamp": {"$date": {"$numberLong": "1644550393465"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6741, 6534, 359], "velocity": [7, 7, 359]}}
+{"timestamp": {"$date": {"$numberLong": "1644550398716"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6768, 6744, 360], "velocity": [1, 4, 360]}}
+{"timestamp": {"$date": {"$numberLong": "1644550398998"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6150, 6201, 361], "velocity": [4, 1, 361]}}
+{"timestamp": {"$date": {"$numberLong": "1644550399570"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6030, 6735, 362], "velocity": [1, 4, 362]}}
+{"timestamp": {"$date": {"$numberLong": "1644550399642"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6852, 6255, 363], "velocity": [1, 4, 363]}}
+{"timestamp": {"$date": {"$numberLong": "1644550399817"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6318, 6252, 364], "velocity": [4, 1, 364]}}
+{"timestamp": {"$date": {"$numberLong": "1644550400116"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6987, 6828, 365], "velocity": [1, 4, 365], "infrequent_reading": 970}}
+{"timestamp": {"$date": {"$numberLong": "1644550400627"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6468, 6129, 366], "velocity": [7, 7, 366]}}
+{"timestamp": {"$date": {"$numberLong": "1644550400890"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6888, 6213, 367], "velocity": [4, 7, 367]}}
+{"timestamp": {"$date": {"$numberLong": "1644550401239"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6174, 6588, 368], "velocity": [1, 7, 368]}}
+{"timestamp": {"$date": {"$numberLong": "1644550401671"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6078, 6861, 369], "velocity": [4, 7, 369]}}
+{"timestamp": {"$date": {"$numberLong": "1644550401944"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6846, 6813, 370], "velocity": [1, 1, 370]}}
+{"timestamp": {"$date": {"$numberLong": "1644550402378"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6213, 6333, 371], "velocity": [1, 4, 371], "infrequent_reading": 76}}
+{"timestamp": {"$date": {"$numberLong": "1644550402641"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6972, 6480, 372], "velocity": [1, 4, 372]}}
+{"timestamp": {"$date": {"$numberLong": "1644550403106"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6366, 6396, 373], "velocity": [4, 7, 373]}}
+{"timestamp": {"$date": {"$numberLong": "1644550403396"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6918, 6558, 374], "velocity": [7, 1, 374]}}
+{"timestamp": {"$date": {"$numberLong": "1644550403689"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6165, 6699, 375], "velocity": [7, 1, 375]}}
+{"timestamp": {"$date": {"$numberLong": "1644550403985"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6090, 6891, 376], "velocity": [4, 4, 376], "infrequent_reading": 1557}}
+{"timestamp": {"$date": {"$numberLong": "1644550404405"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6408, 6651, 377], "velocity": [4, 7, 377]}}
+{"timestamp": {"$date": {"$numberLong": "1644550404957"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6552, 6918, 378], "velocity": [4, 7, 378]}}
+{"timestamp": {"$date": {"$numberLong": "1644550405422"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6765, 6921, 379], "velocity": [4, 4, 379]}}
+{"timestamp": {"$date": {"$numberLong": "1644550405606"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6393, 6672, 380], "velocity": [1, 1, 380]}}
+{"timestamp": {"$date": {"$numberLong": "1644550406116"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6678, 6276, 381], "velocity": [7, 1, 381]}}
+{"timestamp": {"$date": {"$numberLong": "1644550406296"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6876, 6771, 382], "velocity": [7, 7, 382]}}
+{"timestamp": {"$date": {"$numberLong": "1644550406832"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6912, 6630, 383], "velocity": [1, 7, 383]}}
+{"timestamp": {"$date": {"$numberLong": "1644550406957"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6999, 6552, 384], "velocity": [4, 1, 384]}}
+{"timestamp": {"$date": {"$numberLong": "1644550407063"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6864, 6954, 385], "velocity": [1, 4, 385], "infrequent_reading": 1867}}
+{"timestamp": {"$date": {"$numberLong": "1644550407563"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6489, 6507, 386], "velocity": [7, 4, 386]}}
+{"timestamp": {"$date": {"$numberLong": "1644550412941"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6210, 6927, 387], "velocity": [1, 4, 387]}}
+{"timestamp": {"$date": {"$numberLong": "1644550413063"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6228, 6027, 388], "velocity": [1, 4, 388]}}
+{"timestamp": {"$date": {"$numberLong": "1644550413139"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6144, 6003, 389], "velocity": [1, 4, 389]}}
+{"timestamp": {"$date": {"$numberLong": "1644550413438"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6105, 6162, 390], "velocity": [7, 1, 390]}}
+{"timestamp": {"$date": {"$numberLong": "1644550413983"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6795, 6834, 391], "velocity": [4, 7, 391], "infrequent_reading": 1127}}
+{"timestamp": {"$date": {"$numberLong": "1644550414278"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6753, 6747, 392], "velocity": [7, 1, 392]}}
+{"timestamp": {"$date": {"$numberLong": "1644550414368"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6588, 6357, 393], "velocity": [4, 4, 393]}}
+{"timestamp": {"$date": {"$numberLong": "1644550414633"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6909, 6114, 394], "velocity": [4, 4, 394]}}
+{"timestamp": {"$date": {"$numberLong": "1644550414771"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6015, 6003, 395], "velocity": [7, 7, 395], "infrequent_reading": 311}}
+{"timestamp": {"$date": {"$numberLong": "1644550414934"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6009, 6441, 396], "velocity": [4, 7, 396], "infrequent_reading": 955}}
+{"timestamp": {"$date": {"$numberLong": "1644550415460"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6942, 6429, 397], "velocity": [1, 4, 397]}}
+{"timestamp": {"$date": {"$numberLong": "1644550415561"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6627, 6354, 398], "velocity": [7, 4, 398]}}
+{"timestamp": {"$date": {"$numberLong": "1644550416085"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6951, 6648, 399], "velocity": [1, 4, 399]}}
+{"timestamp": {"$date": {"$numberLong": "1644550416498"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6930, 6105, 400], "velocity": [4, 7, 400]}}
+{"timestamp": {"$date": {"$numberLong": "1644550416994"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6075, 6984, 401], "velocity": [4, 1, 401]}}
+{"timestamp": {"$date": {"$numberLong": "1644550417097"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6774, 6177, 402], "velocity": [1, 1, 402], "infrequent_reading": 1949}}
+{"timestamp": {"$date": {"$numberLong": "1644550417676"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6375, 6951, 403], "velocity": [7, 1, 403], "infrequent_reading": 1280}}
+{"timestamp": {"$date": {"$numberLong": "1644550418270"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6213, 6813, 404], "velocity": [1, 7, 404], "infrequent_reading": 1858}}
+{"timestamp": {"$date": {"$numberLong": "1644550418890"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6876, 6531, 405], "velocity": [4, 1, 405], "infrequent_reading": 649}}
+{"timestamp": {"$date": {"$numberLong": "1644550419190"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6132, 6522, 406], "velocity": [1, 1, 406]}}
+{"timestamp": {"$date": {"$numberLong": "1644550419312"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6498, 6216, 407], "velocity": [7, 7, 407], "infrequent_reading": 1433}}
+{"timestamp": {"$date": {"$numberLong": "1644550419447"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6930, 6366, 408], "velocity": [4, 1, 408], "infrequent_reading": 987}}
+{"timestamp": {"$date": {"$numberLong": "1644550419812"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6063, 6738, 409], "velocity": [7, 4, 409]}}
+{"timestamp": {"$date": {"$numberLong": "1644550420326"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6771, 6216, 410], "velocity": [1, 1, 410]}}
+{"timestamp": {"$date": {"$numberLong": "1644550420686"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6780, 6741, 411], "velocity": [7, 7, 411]}}
+{"timestamp": {"$date": {"$numberLong": "1644550421164"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6405, 6609, 412], "velocity": [7, 7, 412]}}
+{"timestamp": {"$date": {"$numberLong": "1644550421223"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6942, 6951, 413], "velocity": [7, 1, 413], "infrequent_reading": 1075}}
+{"timestamp": {"$date": {"$numberLong": "1644550421832"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6159, 6441, 414], "velocity": [7, 4, 414]}}
+{"timestamp": {"$date": {"$numberLong": "1644550422261"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6045, 6297, 415], "velocity": [4, 4, 415]}}
+{"timestamp": {"$date": {"$numberLong": "1644550422713"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6765, 6249, 416], "velocity": [7, 1, 416], "infrequent_reading": 959}}
+{"timestamp": {"$date": {"$numberLong": "1644550422766"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6717, 6687, 417], "velocity": [4, 1, 417]}}
+{"timestamp": {"$date": {"$numberLong": "1644550423031"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6765, 6603, 418], "velocity": [1, 1, 418]}}
+{"timestamp": {"$date": {"$numberLong": "1644550423553"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6285, 6264, 419], "velocity": [7, 7, 419], "infrequent_reading": 1661}}
+{"timestamp": {"$date": {"$numberLong": "1644550423671"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6117, 6354, 420], "velocity": [1, 7, 420]}}
+{"timestamp": {"$date": {"$numberLong": "1644550424019"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6801, 6015, 421], "velocity": [4, 7, 421]}}
+{"timestamp": {"$date": {"$numberLong": "1644550424345"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6192, 6537, 422], "velocity": [7, 4, 422]}}
+{"timestamp": {"$date": {"$numberLong": "1644550424954"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6039, 6285, 423], "velocity": [1, 7, 423], "infrequent_reading": 476}}
+{"timestamp": {"$date": {"$numberLong": "1644550425439"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6198, 6093, 424], "velocity": [7, 4, 424]}}
+{"timestamp": {"$date": {"$numberLong": "1644550425593"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6237, 6243, 425], "velocity": [4, 1, 425]}}
+{"timestamp": {"$date": {"$numberLong": "1644550425779"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6690, 6792, 426], "velocity": [4, 1, 426]}}
+{"timestamp": {"$date": {"$numberLong": "1644550426390"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6015, 6555, 427], "velocity": [7, 7, 427]}}
+{"timestamp": {"$date": {"$numberLong": "1644550426898"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6135, 6372, 428], "velocity": [4, 7, 428]}}
+{"timestamp": {"$date": {"$numberLong": "1644550427317"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6405, 6237, 429], "velocity": [7, 7, 429]}}
+{"timestamp": {"$date": {"$numberLong": "1644550427531"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6999, 6819, 430], "velocity": [7, 4, 430]}}
+{"timestamp": {"$date": {"$numberLong": "1644550428117"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6519, 6831, 431], "velocity": [7, 4, 431], "infrequent_reading": 35}}
+{"timestamp": {"$date": {"$numberLong": "1644550428468"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6825, 6885, 432], "velocity": [4, 4, 432]}}
+{"timestamp": {"$date": {"$numberLong": "1644550428607"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6825, 6204, 433], "velocity": [4, 1, 433], "infrequent_reading": 1518}}
+{"timestamp": {"$date": {"$numberLong": "1644550429167"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6090, 6570, 434], "velocity": [1, 1, 434]}}
+{"timestamp": {"$date": {"$numberLong": "1644550429557"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6630, 6960, 435], "velocity": [4, 7, 435]}}
+{"timestamp": {"$date": {"$numberLong": "1644550429750"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6165, 6561, 436], "velocity": [7, 1, 436]}}
+{"timestamp": {"$date": {"$numberLong": "1644550430190"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6945, 6480, 437], "velocity": [4, 7, 437]}}
+{"timestamp": {"$date": {"$numberLong": "1644550430767"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6246, 6117, 438], "velocity": [7, 7, 438]}}
+{"timestamp": {"$date": {"$numberLong": "1644550430814"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6804, 6141, 439], "velocity": [1, 7, 439]}}
+{"timestamp": {"$date": {"$numberLong": "1644550430938"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6543, 6051, 440], "velocity": [1, 4, 440], "infrequent_reading": 1452}}
+{"timestamp": {"$date": {"$numberLong": "1644550431552"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6099, 6024, 441], "velocity": [4, 7, 441]}}
+{"timestamp": {"$date": {"$numberLong": "1644550431591"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6873, 6414, 442], "velocity": [1, 7, 442]}}
+{"timestamp": {"$date": {"$numberLong": "1644550432220"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6711, 6729, 443], "velocity": [7, 7, 443]}}
+{"timestamp": {"$date": {"$numberLong": "1644550432697"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6831, 6570, 444], "velocity": [7, 1, 444], "infrequent_reading": 1873}}
+{"timestamp": {"$date": {"$numberLong": "1644550433181"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6453, 6444, 445], "velocity": [7, 1, 445]}}
+{"timestamp": {"$date": {"$numberLong": "1644550433637"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6948, 6450, 446], "velocity": [1, 4, 446]}}
+{"timestamp": {"$date": {"$numberLong": "1644550434255"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6702, 6420, 447], "velocity": [1, 1, 447]}}
+{"timestamp": {"$date": {"$numberLong": "1644550434694"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6342, 6246, 448], "velocity": [4, 4, 448]}}
+{"timestamp": {"$date": {"$numberLong": "1644550434757"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6087, 6471, 449], "velocity": [4, 4, 449]}}
+{"timestamp": {"$date": {"$numberLong": "1644550434930"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6933, 6672, 450], "velocity": [4, 7, 450]}}
+{"timestamp": {"$date": {"$numberLong": "1644550434986"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6111, 6921, 451], "velocity": [7, 1, 451]}}
+{"timestamp": {"$date": {"$numberLong": "1644550435569"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6354, 6363, 452], "velocity": [1, 1, 452]}}
+{"timestamp": {"$date": {"$numberLong": "1644550435869"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6216, 6648, 453], "velocity": [7, 7, 453]}}
+{"timestamp": {"$date": {"$numberLong": "1644550436162"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6600, 6111, 454], "velocity": [4, 4, 454]}}
+{"timestamp": {"$date": {"$numberLong": "1644550436583"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6009, 6231, 455], "velocity": [4, 4, 455]}}
+{"timestamp": {"$date": {"$numberLong": "1644550436646"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6909, 6273, 456], "velocity": [4, 4, 456]}}
+{"timestamp": {"$date": {"$numberLong": "1644550437199"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6300, 6282, 457], "velocity": [7, 7, 457]}}
+{"timestamp": {"$date": {"$numberLong": "1644550437446"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6129, 6993, 458], "velocity": [4, 7, 458], "infrequent_reading": 1754}}
+{"timestamp": {"$date": {"$numberLong": "1644550437632"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6384, 6213, 459], "velocity": [4, 4, 459], "infrequent_reading": 1327}}
+{"timestamp": {"$date": {"$numberLong": "1644550438151"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6795, 6459, 460], "velocity": [1, 7, 460]}}
+{"timestamp": {"$date": {"$numberLong": "1644550438346"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6486, 6624, 461], "velocity": [1, 1, 461]}}
+{"timestamp": {"$date": {"$numberLong": "1644550443932"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6066, 6480, 462], "velocity": [7, 1, 462]}}
+{"timestamp": {"$date": {"$numberLong": "1644550443983"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6507, 6258, 463], "velocity": [7, 4, 463]}}
+{"timestamp": {"$date": {"$numberLong": "1644550444117"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6099, 6855, 464], "velocity": [4, 4, 464]}}
+{"timestamp": {"$date": {"$numberLong": "1644550444300"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6999, 6582, 465], "velocity": [1, 4, 465]}}
+{"timestamp": {"$date": {"$numberLong": "1644550449803"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6615, 6387, 466], "velocity": [7, 1, 466], "infrequent_reading": 1149}}
+{"timestamp": {"$date": {"$numberLong": "1644550449848"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6843, 6177, 467], "velocity": [1, 4, 467]}}
+{"timestamp": {"$date": {"$numberLong": "1644550450053"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6891, 6378, 468], "velocity": [4, 7, 468]}}
+{"timestamp": {"$date": {"$numberLong": "1644550450227"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6204, 6033, 469], "velocity": [4, 7, 469]}}
+{"timestamp": {"$date": {"$numberLong": "1644550450467"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6552, 6204, 470], "velocity": [7, 1, 470]}}
+{"timestamp": {"$date": {"$numberLong": "1644550450557"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6345, 6336, 471], "velocity": [7, 7, 471]}}
+{"timestamp": {"$date": {"$numberLong": "1644550450808"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6864, 472], "velocity": [1, 1, 472], "infrequent_reading": 1438}}
+{"timestamp": {"$date": {"$numberLong": "1644550450852"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6072, 6660, 473], "velocity": [7, 7, 473]}}
+{"timestamp": {"$date": {"$numberLong": "1644550451332"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6465, 6162, 474], "velocity": [4, 7, 474]}}
+{"timestamp": {"$date": {"$numberLong": "1644550451733"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6174, 6102, 475], "velocity": [7, 7, 475]}}
+{"timestamp": {"$date": {"$numberLong": "1644550452003"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6090, 6903, 476], "velocity": [1, 4, 476], "infrequent_reading": 1363}}
+{"timestamp": {"$date": {"$numberLong": "1644550452334"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6582, 6804, 477], "velocity": [4, 7, 477]}}
+{"timestamp": {"$date": {"$numberLong": "1644550452794"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6672, 6603, 478], "velocity": [4, 7, 478]}}
+{"timestamp": {"$date": {"$numberLong": "1644550453196"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6795, 6324, 479], "velocity": [4, 4, 479]}}
+{"timestamp": {"$date": {"$numberLong": "1644550453686"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6462, 6630, 480], "velocity": [4, 1, 480]}}
+{"timestamp": {"$date": {"$numberLong": "1644550454069"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6414, 6345, 481], "velocity": [7, 7, 481]}}
+{"timestamp": {"$date": {"$numberLong": "1644550454178"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6453, 6576, 482], "velocity": [4, 1, 482]}}
+{"timestamp": {"$date": {"$numberLong": "1644550454427"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6678, 6657, 483], "velocity": [7, 1, 483]}}
+{"timestamp": {"$date": {"$numberLong": "1644550455033"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6081, 6594, 484], "velocity": [7, 1, 484]}}
+{"timestamp": {"$date": {"$numberLong": "1644550455619"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6363, 6540, 485], "velocity": [4, 1, 485]}}
+{"timestamp": {"$date": {"$numberLong": "1644550456098"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6318, 6891, 486], "velocity": [1, 4, 486]}}
+{"timestamp": {"$date": {"$numberLong": "1644550456218"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6693, 6363, 487], "velocity": [1, 7, 487]}}
+{"timestamp": {"$date": {"$numberLong": "1644550456661"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6228, 6423, 488], "velocity": [7, 1, 488], "infrequent_reading": 1165}}
+{"timestamp": {"$date": {"$numberLong": "1644550457099"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6324, 6462, 489], "velocity": [7, 7, 489], "infrequent_reading": 838}}
+{"timestamp": {"$date": {"$numberLong": "1644550457290"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6084, 6561, 490], "velocity": [7, 7, 490]}}
+{"timestamp": {"$date": {"$numberLong": "1644550457915"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6327, 6684, 491], "velocity": [7, 7, 491]}}
+{"timestamp": {"$date": {"$numberLong": "1644550458035"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6693, 6030, 492], "velocity": [7, 1, 492]}}
+{"timestamp": {"$date": {"$numberLong": "1644550458144"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6993, 6432, 493], "velocity": [4, 1, 493]}}
+{"timestamp": {"$date": {"$numberLong": "1644550463502"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6963, 6795, 494], "velocity": [7, 4, 494]}}
+{"timestamp": {"$date": {"$numberLong": "1644550463571"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6207, 6048, 495], "velocity": [4, 7, 495]}}
+{"timestamp": {"$date": {"$numberLong": "1644550463933"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6042, 6879, 496], "velocity": [1, 1, 496]}}
+{"timestamp": {"$date": {"$numberLong": "1644550464188"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6660, 6789, 497], "velocity": [1, 7, 497]}}
+{"timestamp": {"$date": {"$numberLong": "1644550464814"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6240, 6228, 498], "velocity": [4, 1, 498]}}
+{"timestamp": {"$date": {"$numberLong": "1644550465351"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6363, 6201, 499], "velocity": [7, 7, 499], "infrequent_reading": 898}}
+{"timestamp": {"$date": {"$numberLong": "1644550465527"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6192, 6297, 500], "velocity": [1, 7, 500]}}
+{"timestamp": {"$date": {"$numberLong": "1644550465948"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6570, 6042, 501], "velocity": [7, 7, 501], "infrequent_reading": 938}}
+{"timestamp": {"$date": {"$numberLong": "1644550466376"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6099, 6546, 502], "velocity": [4, 7, 502], "infrequent_reading": 1141}}
+{"timestamp": {"$date": {"$numberLong": "1644550466482"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6255, 6303, 503], "velocity": [4, 1, 503]}}
+{"timestamp": {"$date": {"$numberLong": "1644550466531"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6201, 6819, 504], "velocity": [7, 1, 504]}}
+{"timestamp": {"$date": {"$numberLong": "1644550466776"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6693, 6030, 505], "velocity": [7, 1, 505]}}
+{"timestamp": {"$date": {"$numberLong": "1644550467383"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6096, 6147, 506], "velocity": [7, 1, 506]}}
+{"timestamp": {"$date": {"$numberLong": "1644550467794"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6915, 6174, 507], "velocity": [4, 4, 507], "infrequent_reading": 947}}
+{"timestamp": {"$date": {"$numberLong": "1644550468375"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6240, 6696, 508], "velocity": [7, 1, 508], "infrequent_reading": 357}}
+{"timestamp": {"$date": {"$numberLong": "1644550468670"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6225, 6177, 509], "velocity": [4, 1, 509], "infrequent_reading": 1063}}
+{"timestamp": {"$date": {"$numberLong": "1644550469246"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6264, 6273, 510], "velocity": [4, 4, 510]}}
+{"timestamp": {"$date": {"$numberLong": "1644550469667"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6204, 6186, 511], "velocity": [7, 1, 511]}}
+{"timestamp": {"$date": {"$numberLong": "1644550469752"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6126, 6846, 512], "velocity": [7, 7, 512]}}
+{"timestamp": {"$date": {"$numberLong": "1644550469896"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6867, 6324, 513], "velocity": [1, 4, 513]}}
+{"timestamp": {"$date": {"$numberLong": "1644550470159"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6786, 6582, 514], "velocity": [7, 7, 514]}}
+{"timestamp": {"$date": {"$numberLong": "1644550470666"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6621, 6804, 515], "velocity": [4, 4, 515]}}
+{"timestamp": {"$date": {"$numberLong": "1644550471232"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6675, 6411, 516], "velocity": [1, 4, 516], "infrequent_reading": 1358}}
+{"timestamp": {"$date": {"$numberLong": "1644550471691"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6894, 6453, 517], "velocity": [4, 4, 517]}}
+{"timestamp": {"$date": {"$numberLong": "1644550472322"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6663, 6900, 518], "velocity": [7, 1, 518]}}
+{"timestamp": {"$date": {"$numberLong": "1644550472796"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6204, 6558, 519], "velocity": [7, 1, 519]}}
+{"timestamp": {"$date": {"$numberLong": "1644550473065"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6255, 6366, 520], "velocity": [1, 1, 520]}}
+{"timestamp": {"$date": {"$numberLong": "1644550473659"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6039, 6711, 521], "velocity": [7, 7, 521]}}
+{"timestamp": {"$date": {"$numberLong": "1644550473698"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6519, 6120, 522], "velocity": [4, 4, 522]}}
+{"timestamp": {"$date": {"$numberLong": "1644550473770"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6213, 6927, 523], "velocity": [7, 4, 523]}}
+{"timestamp": {"$date": {"$numberLong": "1644550474167"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6138, 6678, 524], "velocity": [1, 7, 524]}}
+{"timestamp": {"$date": {"$numberLong": "1644550474392"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6453, 6966, 525], "velocity": [4, 1, 525]}}
+{"timestamp": {"$date": {"$numberLong": "1644550474612"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6825, 6936, 526], "velocity": [4, 1, 526], "infrequent_reading": 644}}
+{"timestamp": {"$date": {"$numberLong": "1644550475025"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6765, 6648, 527], "velocity": [4, 7, 527]}}
+{"timestamp": {"$date": {"$numberLong": "1644550475515"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6519, 6006, 528], "velocity": [7, 1, 528]}}
+{"timestamp": {"$date": {"$numberLong": "1644550476031"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6141, 6111, 529], "velocity": [1, 4, 529]}}
+{"timestamp": {"$date": {"$numberLong": "1644550476246"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6570, 6816, 530], "velocity": [1, 7, 530]}}
+{"timestamp": {"$date": {"$numberLong": "1644550476612"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6516, 6003, 531], "velocity": [4, 7, 531]}}
+{"timestamp": {"$date": {"$numberLong": "1644550482226"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6897, 6729, 532], "velocity": [4, 4, 532]}}
+{"timestamp": {"$date": {"$numberLong": "1644550482278"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6426, 6735, 533], "velocity": [1, 7, 533], "infrequent_reading": 916}}
+{"timestamp": {"$date": {"$numberLong": "1644550482427"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6606, 534], "velocity": [1, 7, 534]}}
+{"timestamp": {"$date": {"$numberLong": "1644550482950"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6060, 6975, 535], "velocity": [1, 4, 535]}}
+{"timestamp": {"$date": {"$numberLong": "1644550483252"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6180, 6033, 536], "velocity": [7, 4, 536]}}
+{"timestamp": {"$date": {"$numberLong": "1644550483497"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6888, 6912, 537], "velocity": [7, 7, 537]}}
+{"timestamp": {"$date": {"$numberLong": "1644550483762"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6264, 6069, 538], "velocity": [4, 7, 538]}}
+{"timestamp": {"$date": {"$numberLong": "1644550483944"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6672, 6849, 539], "velocity": [7, 4, 539], "infrequent_reading": 1046}}
+{"timestamp": {"$date": {"$numberLong": "1644550484137"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6357, 6834, 540], "velocity": [1, 1, 540]}}
+{"timestamp": {"$date": {"$numberLong": "1644550484207"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6195, 6402, 541], "velocity": [4, 7, 541]}}
+{"timestamp": {"$date": {"$numberLong": "1644550484307"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6918, 6852, 542], "velocity": [1, 7, 542]}}
+{"timestamp": {"$date": {"$numberLong": "1644550484931"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6729, 6312, 543], "velocity": [7, 1, 543]}}
+{"timestamp": {"$date": {"$numberLong": "1644550485431"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6693, 6810, 544], "velocity": [7, 4, 544]}}
+{"timestamp": {"$date": {"$numberLong": "1644550486014"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6549, 545], "velocity": [1, 7, 545]}}
+{"timestamp": {"$date": {"$numberLong": "1644550486473"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6780, 6591, 546], "velocity": [1, 1, 546], "infrequent_reading": 1394}}
+{"timestamp": {"$date": {"$numberLong": "1644550486957"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6930, 6390, 547], "velocity": [4, 4, 547]}}
+{"timestamp": {"$date": {"$numberLong": "1644550487186"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6090, 6228, 548], "velocity": [7, 1, 548], "infrequent_reading": 819}}
+{"timestamp": {"$date": {"$numberLong": "1644550487292"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6531, 6393, 549], "velocity": [1, 7, 549]}}
+{"timestamp": {"$date": {"$numberLong": "1644550487362"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6885, 6564, 550], "velocity": [1, 7, 550]}}
+{"timestamp": {"$date": {"$numberLong": "1644550487635"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6669, 6792, 551], "velocity": [7, 1, 551], "infrequent_reading": 943}}
+{"timestamp": {"$date": {"$numberLong": "1644550492795"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6585, 6486, 552], "velocity": [1, 4, 552], "infrequent_reading": 946}}
+{"timestamp": {"$date": {"$numberLong": "1644550493028"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6777, 6981, 553], "velocity": [1, 1, 553], "infrequent_reading": 911}}
+{"timestamp": {"$date": {"$numberLong": "1644550498360"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6213, 6978, 554], "velocity": [1, 1, 554]}}
+{"timestamp": {"$date": {"$numberLong": "1644550498490"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6132, 6582, 555], "velocity": [4, 7, 555]}}
+{"timestamp": {"$date": {"$numberLong": "1644550499034"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6636, 6972, 556], "velocity": [1, 1, 556]}}
+{"timestamp": {"$date": {"$numberLong": "1644550499359"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6057, 6381, 557], "velocity": [7, 4, 557]}}
+{"timestamp": {"$date": {"$numberLong": "1644550499824"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6477, 6399, 558], "velocity": [4, 7, 558]}}
+{"timestamp": {"$date": {"$numberLong": "1644550500273"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6171, 6423, 559], "velocity": [1, 7, 559]}}
+{"timestamp": {"$date": {"$numberLong": "1644550500903"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6480, 6990, 560], "velocity": [4, 1, 560]}}
+{"timestamp": {"$date": {"$numberLong": "1644550500943"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6432, 6576, 561], "velocity": [1, 1, 561]}}
+{"timestamp": {"$date": {"$numberLong": "1644550500995"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6621, 6345, 562], "velocity": [4, 7, 562], "infrequent_reading": 1753}}
+{"timestamp": {"$date": {"$numberLong": "1644550506209"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6144, 6816, 563], "velocity": [4, 4, 563]}}
+{"timestamp": {"$date": {"$numberLong": "1644550506319"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6882, 6480, 564], "velocity": [4, 1, 564], "infrequent_reading": 502}}
+{"timestamp": {"$date": {"$numberLong": "1644550506354"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6573, 6906, 565], "velocity": [7, 1, 565]}}
+{"timestamp": {"$date": {"$numberLong": "1644550506889"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6861, 6468, 566], "velocity": [7, 4, 566]}}
+{"timestamp": {"$date": {"$numberLong": "1644550507337"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6507, 6054, 567], "velocity": [1, 4, 567]}}
+{"timestamp": {"$date": {"$numberLong": "1644550507866"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6300, 6639, 568], "velocity": [1, 1, 568], "infrequent_reading": 329}}
+{"timestamp": {"$date": {"$numberLong": "1644550508334"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6012, 6630, 569], "velocity": [7, 7, 569]}}
+{"timestamp": {"$date": {"$numberLong": "1644550508727"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6909, 6537, 570], "velocity": [4, 1, 570]}}
+{"timestamp": {"$date": {"$numberLong": "1644550509149"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6942, 6867, 571], "velocity": [1, 4, 571], "infrequent_reading": 1382}}
+{"timestamp": {"$date": {"$numberLong": "1644550509210"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6591, 6423, 572], "velocity": [1, 1, 572]}}
+{"timestamp": {"$date": {"$numberLong": "1644550509540"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6606, 573], "velocity": [1, 1, 573]}}
+{"timestamp": {"$date": {"$numberLong": "1644550510069"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6765, 6306, 574], "velocity": [7, 7, 574], "infrequent_reading": 309}}
+{"timestamp": {"$date": {"$numberLong": "1644550510662"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6114, 6342, 575], "velocity": [1, 4, 575]}}
+{"timestamp": {"$date": {"$numberLong": "1644550510957"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6546, 6972, 576], "velocity": [1, 4, 576]}}
+{"timestamp": {"$date": {"$numberLong": "1644550511531"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6447, 6369, 577], "velocity": [1, 7, 577]}}
+{"timestamp": {"$date": {"$numberLong": "1644550511878"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6873, 6414, 578], "velocity": [7, 4, 578]}}
+{"timestamp": {"$date": {"$numberLong": "1644550512199"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6399, 6474, 579], "velocity": [4, 4, 579]}}
+{"timestamp": {"$date": {"$numberLong": "1644550512440"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6042, 6486, 580], "velocity": [7, 7, 580]}}
+{"timestamp": {"$date": {"$numberLong": "1644550512724"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6828, 6924, 581], "velocity": [4, 1, 581]}}
+{"timestamp": {"$date": {"$numberLong": "1644550513209"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6093, 6657, 582], "velocity": [1, 1, 582]}}
+{"timestamp": {"$date": {"$numberLong": "1644550513289"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6555, 6354, 583], "velocity": [4, 1, 583]}}
+{"timestamp": {"$date": {"$numberLong": "1644550513638"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6363, 6165, 584], "velocity": [4, 1, 584]}}
+{"timestamp": {"$date": {"$numberLong": "1644550514085"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6054, 6057, 585], "velocity": [4, 4, 585], "infrequent_reading": 1407}}
+{"timestamp": {"$date": {"$numberLong": "1644550514450"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6975, 6810, 586], "velocity": [4, 7, 586]}}
+{"timestamp": {"$date": {"$numberLong": "1644550514798"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6636, 6408, 587], "velocity": [7, 4, 587]}}
+{"timestamp": {"$date": {"$numberLong": "1644550515343"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6585, 6081, 588], "velocity": [7, 7, 588]}}
+{"timestamp": {"$date": {"$numberLong": "1644550515551"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6627, 6516, 589], "velocity": [1, 4, 589]}}
+{"timestamp": {"$date": {"$numberLong": "1644550515729"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6228, 6309, 590], "velocity": [7, 1, 590], "infrequent_reading": 1256}}
+{"timestamp": {"$date": {"$numberLong": "1644550516030"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6699, 6447, 591], "velocity": [1, 7, 591]}}
+{"timestamp": {"$date": {"$numberLong": "1644550516623"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6831, 6909, 592], "velocity": [1, 4, 592]}}
+{"timestamp": {"$date": {"$numberLong": "1644550517153"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6768, 6138, 593], "velocity": [4, 1, 593]}}
+{"timestamp": {"$date": {"$numberLong": "1644550517454"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6594, 6858, 594], "velocity": [4, 4, 594]}}
+{"timestamp": {"$date": {"$numberLong": "1644550518065"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6351, 6825, 595], "velocity": [7, 7, 595]}}
+{"timestamp": {"$date": {"$numberLong": "1644550518454"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6702, 6849, 596], "velocity": [1, 1, 596]}}
+{"timestamp": {"$date": {"$numberLong": "1644550518581"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6582, 6849, 597], "velocity": [4, 7, 597], "infrequent_reading": 535}}
+{"timestamp": {"$date": {"$numberLong": "1644550518761"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6114, 6312, 598], "velocity": [4, 4, 598]}}
+{"timestamp": {"$date": {"$numberLong": "1644550519118"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6309, 6492, 599], "velocity": [7, 1, 599]}}
+{"timestamp": {"$date": {"$numberLong": "1644550519734"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6513, 6528, 600], "velocity": [1, 1, 600]}}
+{"timestamp": {"$date": {"$numberLong": "1644550520046"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6423, 6327, 601], "velocity": [7, 1, 601]}}
+{"timestamp": {"$date": {"$numberLong": "1644550520079"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6555, 6438, 602], "velocity": [4, 1, 602], "infrequent_reading": 1113}}
+{"timestamp": {"$date": {"$numberLong": "1644550520245"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6450, 6801, 603], "velocity": [7, 4, 603]}}
+{"timestamp": {"$date": {"$numberLong": "1644550525340"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6582, 6075, 604], "velocity": [7, 7, 604], "infrequent_reading": 732}}
+{"timestamp": {"$date": {"$numberLong": "1644550525636"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6564, 6633, 605], "velocity": [7, 7, 605]}}
+{"timestamp": {"$date": {"$numberLong": "1644550525944"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6681, 6531, 606], "velocity": [4, 4, 606]}}
+{"timestamp": {"$date": {"$numberLong": "1644550526146"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6540, 6705, 607], "velocity": [4, 4, 607]}}
+{"timestamp": {"$date": {"$numberLong": "1644550526457"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6390, 6513, 608], "velocity": [1, 1, 608], "infrequent_reading": 1255}}
+{"timestamp": {"$date": {"$numberLong": "1644550526981"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6960, 6729, 609], "velocity": [7, 1, 609]}}
+{"timestamp": {"$date": {"$numberLong": "1644550527104"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6429, 6291, 610], "velocity": [4, 4, 610]}}
+{"timestamp": {"$date": {"$numberLong": "1644550527225"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6678, 6576, 611], "velocity": [7, 1, 611], "infrequent_reading": 24}}
+{"timestamp": {"$date": {"$numberLong": "1644550527527"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6549, 6870, 612], "velocity": [1, 7, 612]}}
+{"timestamp": {"$date": {"$numberLong": "1644550527891"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6972, 6168, 613], "velocity": [1, 7, 613]}}
+{"timestamp": {"$date": {"$numberLong": "1644550528304"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6684, 6936, 614], "velocity": [4, 1, 614]}}
+{"timestamp": {"$date": {"$numberLong": "1644550528686"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6291, 6603, 615], "velocity": [4, 7, 615]}}
+{"timestamp": {"$date": {"$numberLong": "1644550529240"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6333, 6285, 616], "velocity": [7, 4, 616], "infrequent_reading": 1218}}
+{"timestamp": {"$date": {"$numberLong": "1644550529701"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6315, 6306, 617], "velocity": [4, 1, 617]}}
+{"timestamp": {"$date": {"$numberLong": "1644550529812"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6051, 6312, 618], "velocity": [4, 7, 618]}}
+{"timestamp": {"$date": {"$numberLong": "1644550530287"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6960, 6846, 619], "velocity": [1, 7, 619]}}
+{"timestamp": {"$date": {"$numberLong": "1644550530394"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6030, 6390, 620], "velocity": [7, 1, 620]}}
+{"timestamp": {"$date": {"$numberLong": "1644550530918"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6132, 6264, 621], "velocity": [1, 1, 621], "infrequent_reading": 995}}
+{"timestamp": {"$date": {"$numberLong": "1644550530956"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6327, 6186, 622], "velocity": [7, 7, 622]}}
+{"timestamp": {"$date": {"$numberLong": "1644550531351"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6834, 6525, 623], "velocity": [1, 4, 623]}}
+{"timestamp": {"$date": {"$numberLong": "1644550531483"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6033, 6333, 624], "velocity": [7, 1, 624]}}
+{"timestamp": {"$date": {"$numberLong": "1644550532032"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6021, 6681, 625], "velocity": [7, 7, 625]}}
+{"timestamp": {"$date": {"$numberLong": "1644550532201"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6555, 6501, 626], "velocity": [1, 7, 626]}}
+{"timestamp": {"$date": {"$numberLong": "1644550532320"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6921, 6249, 627], "velocity": [1, 4, 627]}}
+{"timestamp": {"$date": {"$numberLong": "1644550532828"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6858, 6510, 628], "velocity": [4, 7, 628]}}
+{"timestamp": {"$date": {"$numberLong": "1644550533438"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6423, 6426, 629], "velocity": [1, 4, 629]}}
+{"timestamp": {"$date": {"$numberLong": "1644550533725"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6993, 6945, 630], "velocity": [7, 4, 630]}}
+{"timestamp": {"$date": {"$numberLong": "1644550534108"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6198, 6219, 631], "velocity": [1, 4, 631]}}
+{"timestamp": {"$date": {"$numberLong": "1644550534559"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6531, 6309, 632], "velocity": [4, 1, 632]}}
+{"timestamp": {"$date": {"$numberLong": "1644550534877"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6750, 6807, 633], "velocity": [4, 7, 633]}}
+{"timestamp": {"$date": {"$numberLong": "1644550535191"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6885, 6657, 634], "velocity": [4, 4, 634]}}
+{"timestamp": {"$date": {"$numberLong": "1644550540698"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6429, 6540, 635], "velocity": [4, 1, 635], "infrequent_reading": 422}}
+{"timestamp": {"$date": {"$numberLong": "1644550546037"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6315, 6093, 636], "velocity": [4, 1, 636], "infrequent_reading": 1171}}
+{"timestamp": {"$date": {"$numberLong": "1644550546314"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6360, 6942, 637], "velocity": [7, 7, 637], "infrequent_reading": 443}}
+{"timestamp": {"$date": {"$numberLong": "1644550546401"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6036, 6027, 638], "velocity": [4, 4, 638]}}
+{"timestamp": {"$date": {"$numberLong": "1644550551445"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6150, 6075, 639], "velocity": [1, 1, 639]}}
+{"timestamp": {"$date": {"$numberLong": "1644550551715"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6471, 6939, 640], "velocity": [7, 1, 640]}}
+{"timestamp": {"$date": {"$numberLong": "1644550551755"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6465, 6816, 641], "velocity": [7, 7, 641]}}
+{"timestamp": {"$date": {"$numberLong": "1644550552314"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6522, 6657, 642], "velocity": [7, 7, 642]}}
+{"timestamp": {"$date": {"$numberLong": "1644550552768"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6960, 6519, 643], "velocity": [1, 7, 643]}}
+{"timestamp": {"$date": {"$numberLong": "1644550553026"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6990, 6081, 644], "velocity": [7, 7, 644]}}
+{"timestamp": {"$date": {"$numberLong": "1644550553423"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6648, 6495, 645], "velocity": [1, 7, 645]}}
+{"timestamp": {"$date": {"$numberLong": "1644550553776"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6591, 6156, 646], "velocity": [7, 1, 646], "infrequent_reading": 1370}}
+{"timestamp": {"$date": {"$numberLong": "1644550554090"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6618, 6024, 647], "velocity": [1, 1, 647]}}
+{"timestamp": {"$date": {"$numberLong": "1644550554526"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6708, 6690, 648], "velocity": [4, 7, 648]}}
+{"timestamp": {"$date": {"$numberLong": "1644550559645"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6138, 6180, 649], "velocity": [4, 1, 649]}}
+{"timestamp": {"$date": {"$numberLong": "1644550560147"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6501, 6948, 650], "velocity": [4, 7, 650], "infrequent_reading": 744}}
+{"timestamp": {"$date": {"$numberLong": "1644550560251"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6177, 6249, 651], "velocity": [4, 1, 651]}}
+{"timestamp": {"$date": {"$numberLong": "1644550560368"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6459, 6279, 652], "velocity": [1, 4, 652]}}
+{"timestamp": {"$date": {"$numberLong": "1644550560925"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6693, 6741, 653], "velocity": [7, 7, 653]}}
+{"timestamp": {"$date": {"$numberLong": "1644550561093"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6723, 6732, 654], "velocity": [4, 1, 654]}}
+{"timestamp": {"$date": {"$numberLong": "1644550561316"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6744, 6036, 655], "velocity": [1, 4, 655], "infrequent_reading": 1029}}
+{"timestamp": {"$date": {"$numberLong": "1644550561513"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6396, 6957, 656], "velocity": [7, 4, 656]}}
+{"timestamp": {"$date": {"$numberLong": "1644550561791"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6333, 6576, 657], "velocity": [4, 4, 657]}}
+{"timestamp": {"$date": {"$numberLong": "1644550562305"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6501, 6558, 658], "velocity": [4, 4, 658]}}
+{"timestamp": {"$date": {"$numberLong": "1644550562455"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6282, 6423, 659], "velocity": [4, 7, 659]}}
+{"timestamp": {"$date": {"$numberLong": "1644550562829"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6861, 6765, 660], "velocity": [4, 4, 660]}}
+{"timestamp": {"$date": {"$numberLong": "1644550563123"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6174, 6678, 661], "velocity": [4, 1, 661], "infrequent_reading": 3}}
+{"timestamp": {"$date": {"$numberLong": "1644550563683"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6555, 6702, 662], "velocity": [1, 4, 662]}}
+{"timestamp": {"$date": {"$numberLong": "1644550563829"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6660, 6582, 663], "velocity": [7, 1, 663]}}
+{"timestamp": {"$date": {"$numberLong": "1644550564128"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6138, 6606, 664], "velocity": [4, 1, 664]}}
+{"timestamp": {"$date": {"$numberLong": "1644550564328"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6975, 6411, 665], "velocity": [1, 7, 665]}}
+{"timestamp": {"$date": {"$numberLong": "1644550564439"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6213, 6906, 666], "velocity": [1, 4, 666]}}
+{"timestamp": {"$date": {"$numberLong": "1644550564625"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6732, 6510, 667], "velocity": [1, 1, 667]}}
+{"timestamp": {"$date": {"$numberLong": "1644550565187"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6939, 6231, 668], "velocity": [1, 7, 668]}}
+{"timestamp": {"$date": {"$numberLong": "1644550570641"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6849, 6024, 669], "velocity": [1, 4, 669], "infrequent_reading": 1554}}
+{"timestamp": {"$date": {"$numberLong": "1644550570682"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6108, 6696, 670], "velocity": [7, 1, 670]}}
+{"timestamp": {"$date": {"$numberLong": "1644550570948"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6294, 6159, 671], "velocity": [1, 1, 671]}}
+{"timestamp": {"$date": {"$numberLong": "1644550571141"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6003, 6486, 672], "velocity": [4, 1, 672]}}
+{"timestamp": {"$date": {"$numberLong": "1644550571176"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6528, 6609, 673], "velocity": [7, 4, 673], "infrequent_reading": 109}}
+{"timestamp": {"$date": {"$numberLong": "1644550571452"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6045, 6990, 674], "velocity": [1, 4, 674], "infrequent_reading": 1959}}
+{"timestamp": {"$date": {"$numberLong": "1644550572025"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6813, 6333, 675], "velocity": [4, 1, 675]}}
+{"timestamp": {"$date": {"$numberLong": "1644550572395"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6681, 6858, 676], "velocity": [4, 7, 676], "infrequent_reading": 578}}
+{"timestamp": {"$date": {"$numberLong": "1644550572731"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6273, 6876, 677], "velocity": [4, 1, 677]}}
+{"timestamp": {"$date": {"$numberLong": "1644550573207"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6978, 6102, 678], "velocity": [4, 1, 678]}}
+{"timestamp": {"$date": {"$numberLong": "1644550573380"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6747, 6012, 679], "velocity": [7, 1, 679], "infrequent_reading": 1741}}
+{"timestamp": {"$date": {"$numberLong": "1644550578565"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6219, 6030, 680], "velocity": [4, 4, 680]}}
+{"timestamp": {"$date": {"$numberLong": "1644550578730"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6978, 6060, 681], "velocity": [7, 1, 681]}}
+{"timestamp": {"$date": {"$numberLong": "1644550578793"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6798, 6723, 682], "velocity": [4, 7, 682]}}
+{"timestamp": {"$date": {"$numberLong": "1644550578833"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6840, 6948, 683], "velocity": [7, 4, 683], "infrequent_reading": 1883}}
+{"timestamp": {"$date": {"$numberLong": "1644550579465"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6153, 6396, 684], "velocity": [1, 1, 684], "infrequent_reading": 145}}
+{"timestamp": {"$date": {"$numberLong": "1644550584785"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6657, 6072, 685], "velocity": [4, 1, 685], "infrequent_reading": 1156}}
+{"timestamp": {"$date": {"$numberLong": "1644550585084"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6258, 6543, 686], "velocity": [7, 7, 686]}}
+{"timestamp": {"$date": {"$numberLong": "1644550585165"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6645, 6393, 687], "velocity": [7, 7, 687], "infrequent_reading": 374}}
+{"timestamp": {"$date": {"$numberLong": "1644550585753"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6363, 6720, 688], "velocity": [1, 1, 688]}}
+{"timestamp": {"$date": {"$numberLong": "1644550586341"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6150, 6594, 689], "velocity": [7, 1, 689]}}
+{"timestamp": {"$date": {"$numberLong": "1644550586805"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6708, 6072, 690], "velocity": [4, 4, 690]}}
+{"timestamp": {"$date": {"$numberLong": "1644550587145"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6594, 6513, 691], "velocity": [1, 7, 691]}}
+{"timestamp": {"$date": {"$numberLong": "1644550587442"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6303, 6618, 692], "velocity": [7, 1, 692]}}
+{"timestamp": {"$date": {"$numberLong": "1644550587944"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6585, 6336, 693], "velocity": [7, 1, 693]}}
+{"timestamp": {"$date": {"$numberLong": "1644550588525"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6732, 6603, 694], "velocity": [7, 1, 694]}}
+{"timestamp": {"$date": {"$numberLong": "1644550589100"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6309, 6891, 695], "velocity": [1, 4, 695]}}
+{"timestamp": {"$date": {"$numberLong": "1644550589594"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6300, 6702, 696], "velocity": [1, 4, 696]}}
+{"timestamp": {"$date": {"$numberLong": "1644550589730"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6429, 6663, 697], "velocity": [7, 1, 697], "infrequent_reading": 113}}
+{"timestamp": {"$date": {"$numberLong": "1644550590249"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6762, 6870, 698], "velocity": [4, 1, 698]}}
+{"timestamp": {"$date": {"$numberLong": "1644550590749"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6819, 6336, 699], "velocity": [7, 1, 699]}}
+{"timestamp": {"$date": {"$numberLong": "1644550591214"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6318, 6000, 700], "velocity": [4, 7, 700]}}
+{"timestamp": {"$date": {"$numberLong": "1644550591827"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6684, 6552, 701], "velocity": [1, 4, 701]}}
+{"timestamp": {"$date": {"$numberLong": "1644550592452"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6012, 6411, 702], "velocity": [7, 4, 702]}}
+{"timestamp": {"$date": {"$numberLong": "1644550597906"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6267, 6207, 703], "velocity": [4, 4, 703]}}
+{"timestamp": {"$date": {"$numberLong": "1644550598038"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6192, 6618, 704], "velocity": [1, 1, 704]}}
+{"timestamp": {"$date": {"$numberLong": "1644550598582"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6360, 6129, 705], "velocity": [1, 7, 705], "infrequent_reading": 325}}
+{"timestamp": {"$date": {"$numberLong": "1644550598856"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6408, 6996, 706], "velocity": [7, 1, 706], "infrequent_reading": 762}}
+{"timestamp": {"$date": {"$numberLong": "1644550599211"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6402, 6300, 707], "velocity": [4, 7, 707]}}
+{"timestamp": {"$date": {"$numberLong": "1644550599433"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6324, 6588, 708], "velocity": [7, 7, 708], "infrequent_reading": 677}}
+{"timestamp": {"$date": {"$numberLong": "1644550599820"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6702, 6771, 709], "velocity": [4, 4, 709]}}
+{"timestamp": {"$date": {"$numberLong": "1644550600156"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6798, 6555, 710], "velocity": [4, 4, 710]}}
+{"timestamp": {"$date": {"$numberLong": "1644550600192"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6399, 6207, 711], "velocity": [4, 7, 711]}}
+{"timestamp": {"$date": {"$numberLong": "1644550600255"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6207, 6066, 712], "velocity": [1, 4, 712]}}
+{"timestamp": {"$date": {"$numberLong": "1644550600808"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6810, 6303, 713], "velocity": [4, 4, 713], "infrequent_reading": 1379}}
+{"timestamp": {"$date": {"$numberLong": "1644550601418"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6492, 6897, 714], "velocity": [4, 4, 714]}}
+{"timestamp": {"$date": {"$numberLong": "1644550601464"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6753, 6435, 715], "velocity": [4, 4, 715]}}
+{"timestamp": {"$date": {"$numberLong": "1644550601527"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6441, 6654, 716], "velocity": [4, 1, 716]}}
+{"timestamp": {"$date": {"$numberLong": "1644550602156"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6009, 6978, 717], "velocity": [4, 7, 717]}}
+{"timestamp": {"$date": {"$numberLong": "1644550602457"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6021, 6594, 718], "velocity": [4, 7, 718]}}
+{"timestamp": {"$date": {"$numberLong": "1644550602565"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6108, 6087, 719], "velocity": [7, 4, 719]}}
+{"timestamp": {"$date": {"$numberLong": "1644550602775"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6414, 6705, 720], "velocity": [7, 4, 720], "infrequent_reading": 753}}
+{"timestamp": {"$date": {"$numberLong": "1644550602989"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6861, 6600, 721], "velocity": [7, 1, 721], "infrequent_reading": 1619}}
+{"timestamp": {"$date": {"$numberLong": "1644550603366"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6531, 6123, 722], "velocity": [7, 4, 722]}}
+{"timestamp": {"$date": {"$numberLong": "1644550603441"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6942, 6261, 723], "velocity": [7, 1, 723]}}
+{"timestamp": {"$date": {"$numberLong": "1644550603889"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6123, 6687, 724], "velocity": [1, 7, 724], "infrequent_reading": 1821}}
+{"timestamp": {"$date": {"$numberLong": "1644550608970"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6048, 6060, 725], "velocity": [7, 7, 725], "infrequent_reading": 393}}
+{"timestamp": {"$date": {"$numberLong": "1644550609034"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6378, 6072, 726], "velocity": [1, 7, 726]}}
+{"timestamp": {"$date": {"$numberLong": "1644550609492"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6039, 6381, 727], "velocity": [7, 7, 727]}}
+{"timestamp": {"$date": {"$numberLong": "1644550609706"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6228, 6816, 728], "velocity": [1, 7, 728]}}
+{"timestamp": {"$date": {"$numberLong": "1644550610226"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6921, 6477, 729], "velocity": [7, 4, 729]}}
+{"timestamp": {"$date": {"$numberLong": "1644550610272"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6225, 6180, 730], "velocity": [7, 4, 730], "infrequent_reading": 694}}
+{"timestamp": {"$date": {"$numberLong": "1644550610669"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6972, 6933, 731], "velocity": [1, 1, 731], "infrequent_reading": 1368}}
+{"timestamp": {"$date": {"$numberLong": "1644550611207"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6681, 6195, 732], "velocity": [4, 4, 732]}}
+{"timestamp": {"$date": {"$numberLong": "1644550611273"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6639, 6846, 733], "velocity": [4, 4, 733]}}
+{"timestamp": {"$date": {"$numberLong": "1644550611647"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6054, 6396, 734], "velocity": [7, 7, 734]}}
+{"timestamp": {"$date": {"$numberLong": "1644550611997"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6189, 6519, 735], "velocity": [4, 1, 735]}}
+{"timestamp": {"$date": {"$numberLong": "1644550612605"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6618, 6039, 736], "velocity": [7, 1, 736], "infrequent_reading": 1420}}
+{"timestamp": {"$date": {"$numberLong": "1644550612652"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6099, 6666, 737], "velocity": [1, 1, 737]}}
+{"timestamp": {"$date": {"$numberLong": "1644550613112"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6642, 6300, 738], "velocity": [7, 4, 738]}}
+{"timestamp": {"$date": {"$numberLong": "1644550613249"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6858, 6720, 739], "velocity": [1, 1, 739]}}
+{"timestamp": {"$date": {"$numberLong": "1644550613486"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6051, 6039, 740], "velocity": [4, 1, 740], "infrequent_reading": 1082}}
+{"timestamp": {"$date": {"$numberLong": "1644550613540"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6666, 6465, 741], "velocity": [7, 1, 741], "infrequent_reading": 794}}
+{"timestamp": {"$date": {"$numberLong": "1644550613906"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6621, 6150, 742], "velocity": [7, 4, 742]}}
+{"timestamp": {"$date": {"$numberLong": "1644550614170"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6150, 6540, 743], "velocity": [7, 4, 743]}}
+{"timestamp": {"$date": {"$numberLong": "1644550614328"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6495, 6231, 744], "velocity": [7, 4, 744]}}
+{"timestamp": {"$date": {"$numberLong": "1644550614821"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6675, 6690, 745], "velocity": [4, 4, 745]}}
+{"timestamp": {"$date": {"$numberLong": "1644550615193"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6870, 6435, 746], "velocity": [4, 1, 746], "infrequent_reading": 906}}
+{"timestamp": {"$date": {"$numberLong": "1644550615604"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6768, 747], "velocity": [1, 7, 747]}}
+{"timestamp": {"$date": {"$numberLong": "1644550615861"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6240, 6480, 748], "velocity": [1, 1, 748]}}
+{"timestamp": {"$date": {"$numberLong": "1644550616181"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6357, 6573, 749], "velocity": [7, 1, 749]}}
+{"timestamp": {"$date": {"$numberLong": "1644550616812"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6567, 750], "velocity": [7, 1, 750]}}
+{"timestamp": {"$date": {"$numberLong": "1644550617336"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6873, 6156, 751], "velocity": [1, 4, 751]}}
+{"timestamp": {"$date": {"$numberLong": "1644550617934"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6969, 6441, 752], "velocity": [4, 1, 752], "infrequent_reading": 1895}}
+{"timestamp": {"$date": {"$numberLong": "1644550618057"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6534, 6291, 753], "velocity": [1, 7, 753]}}
+{"timestamp": {"$date": {"$numberLong": "1644550618652"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6627, 754], "velocity": [7, 4, 754]}}
+{"timestamp": {"$date": {"$numberLong": "1644550619034"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6378, 6759, 755], "velocity": [4, 7, 755]}}
+{"timestamp": {"$date": {"$numberLong": "1644550619479"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6237, 6873, 756], "velocity": [1, 4, 756]}}
+{"timestamp": {"$date": {"$numberLong": "1644550619861"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6552, 6456, 757], "velocity": [7, 1, 757]}}
+{"timestamp": {"$date": {"$numberLong": "1644550619917"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6939, 6534, 758], "velocity": [1, 4, 758]}}
+{"timestamp": {"$date": {"$numberLong": "1644550620405"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6285, 6936, 759], "velocity": [1, 4, 759]}}
+{"timestamp": {"$date": {"$numberLong": "1644550620919"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6294, 6861, 760], "velocity": [4, 1, 760], "infrequent_reading": 846}}
+{"timestamp": {"$date": {"$numberLong": "1644550621087"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6042, 6705, 761], "velocity": [1, 7, 761]}}
+{"timestamp": {"$date": {"$numberLong": "1644550621688"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6909, 6528, 762], "velocity": [1, 7, 762]}}
+{"timestamp": {"$date": {"$numberLong": "1644550621968"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6420, 6705, 763], "velocity": [1, 7, 763]}}
+{"timestamp": {"$date": {"$numberLong": "1644550622070"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6498, 6405, 764], "velocity": [7, 1, 764], "infrequent_reading": 354}}
+{"timestamp": {"$date": {"$numberLong": "1644550622257"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6429, 6705, 765], "velocity": [7, 7, 765]}}
+{"timestamp": {"$date": {"$numberLong": "1644550622555"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6219, 6987, 766], "velocity": [4, 7, 766]}}
+{"timestamp": {"$date": {"$numberLong": "1644550622701"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6477, 6261, 767], "velocity": [7, 7, 767], "infrequent_reading": 1294}}
+{"timestamp": {"$date": {"$numberLong": "1644550623152"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6681, 6864, 768], "velocity": [7, 7, 768]}}
+{"timestamp": {"$date": {"$numberLong": "1644550623414"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6837, 6783, 769], "velocity": [1, 1, 769]}}
+{"timestamp": {"$date": {"$numberLong": "1644550624022"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6735, 6012, 770], "velocity": [7, 4, 770]}}
+{"timestamp": {"$date": {"$numberLong": "1644550624332"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6876, 6543, 771], "velocity": [1, 4, 771]}}
+{"timestamp": {"$date": {"$numberLong": "1644550624525"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6096, 6735, 772], "velocity": [1, 4, 772]}}
+{"timestamp": {"$date": {"$numberLong": "1644550624860"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6348, 6690, 773], "velocity": [4, 4, 773]}}
+{"timestamp": {"$date": {"$numberLong": "1644550624951"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6777, 6771, 774], "velocity": [7, 7, 774], "infrequent_reading": 1059}}
+{"timestamp": {"$date": {"$numberLong": "1644550625445"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6510, 6942, 775], "velocity": [1, 7, 775]}}
+{"timestamp": {"$date": {"$numberLong": "1644550625891"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6867, 6153, 776], "velocity": [4, 4, 776], "infrequent_reading": 725}}
+{"timestamp": {"$date": {"$numberLong": "1644550626506"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6750, 6678, 777], "velocity": [1, 4, 777], "infrequent_reading": 262}}
+{"timestamp": {"$date": {"$numberLong": "1644550626740"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6234, 6309, 778], "velocity": [4, 7, 778]}}
+{"timestamp": {"$date": {"$numberLong": "1644550627008"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6054, 6642, 779], "velocity": [4, 1, 779]}}
+{"timestamp": {"$date": {"$numberLong": "1644550627044"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6729, 6837, 780], "velocity": [7, 7, 780]}}
+{"timestamp": {"$date": {"$numberLong": "1644550627337"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6285, 6399, 781], "velocity": [4, 7, 781]}}
+{"timestamp": {"$date": {"$numberLong": "1644550627614"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6588, 6141, 782], "velocity": [4, 1, 782]}}
+{"timestamp": {"$date": {"$numberLong": "1644550627803"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6891, 6882, 783], "velocity": [1, 1, 783], "infrequent_reading": 222}}
+{"timestamp": {"$date": {"$numberLong": "1644550628264"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6957, 6426, 784], "velocity": [4, 4, 784]}}
+{"timestamp": {"$date": {"$numberLong": "1644550628607"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6456, 6609, 785], "velocity": [4, 1, 785]}}
+{"timestamp": {"$date": {"$numberLong": "1644550629228"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6885, 6195, 786], "velocity": [4, 1, 786]}}
+{"timestamp": {"$date": {"$numberLong": "1644550629765"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6942, 6354, 787], "velocity": [1, 7, 787]}}
+{"timestamp": {"$date": {"$numberLong": "1644550630391"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6780, 6525, 788], "velocity": [7, 4, 788]}}
+{"timestamp": {"$date": {"$numberLong": "1644550630479"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6516, 6753, 789], "velocity": [4, 7, 789]}}
+{"timestamp": {"$date": {"$numberLong": "1644550630555"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6837, 6270, 790], "velocity": [4, 1, 790], "infrequent_reading": 1406}}
+{"timestamp": {"$date": {"$numberLong": "1644550631148"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6495, 6879, 791], "velocity": [1, 4, 791]}}
+{"timestamp": {"$date": {"$numberLong": "1644550631466"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6660, 6288, 792], "velocity": [1, 7, 792], "infrequent_reading": 1213}}
+{"timestamp": {"$date": {"$numberLong": "1644550631623"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6450, 6957, 793], "velocity": [4, 1, 793]}}
+{"timestamp": {"$date": {"$numberLong": "1644550632211"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6651, 6063, 794], "velocity": [4, 7, 794]}}
+{"timestamp": {"$date": {"$numberLong": "1644550632812"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6972, 6501, 795], "velocity": [7, 1, 795]}}
+{"timestamp": {"$date": {"$numberLong": "1644550633372"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6312, 6438, 796], "velocity": [4, 1, 796]}}
+{"timestamp": {"$date": {"$numberLong": "1644550633883"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6495, 6984, 797], "velocity": [1, 1, 797]}}
+{"timestamp": {"$date": {"$numberLong": "1644550634091"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6558, 6069, 798], "velocity": [7, 1, 798]}}
+{"timestamp": {"$date": {"$numberLong": "1644550634400"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6042, 6129, 799], "velocity": [1, 1, 799]}}
+{"timestamp": {"$date": {"$numberLong": "1644550634536"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6237, 6417, 800], "velocity": [4, 1, 800]}}
+{"timestamp": {"$date": {"$numberLong": "1644550634880"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6267, 6360, 801], "velocity": [4, 1, 801]}}
+{"timestamp": {"$date": {"$numberLong": "1644550635083"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6012, 6114, 802], "velocity": [1, 7, 802]}}
+{"timestamp": {"$date": {"$numberLong": "1644550635649"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6648, 6327, 803], "velocity": [4, 4, 803], "infrequent_reading": 610}}
+{"timestamp": {"$date": {"$numberLong": "1644550635986"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6603, 6309, 804], "velocity": [4, 4, 804]}}
+{"timestamp": {"$date": {"$numberLong": "1644550641447"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6363, 6777, 805], "velocity": [7, 4, 805]}}
+{"timestamp": {"$date": {"$numberLong": "1644550641900"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6039, 6759, 806], "velocity": [4, 1, 806]}}
+{"timestamp": {"$date": {"$numberLong": "1644550642196"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6858, 6048, 807], "velocity": [1, 1, 807]}}
+{"timestamp": {"$date": {"$numberLong": "1644550642485"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6573, 6396, 808], "velocity": [4, 4, 808]}}
+{"timestamp": {"$date": {"$numberLong": "1644550642748"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6456, 809], "velocity": [7, 4, 809]}}
+{"timestamp": {"$date": {"$numberLong": "1644550643261"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6477, 6813, 810], "velocity": [1, 4, 810]}}
+{"timestamp": {"$date": {"$numberLong": "1644550643868"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6348, 6120, 811], "velocity": [7, 4, 811]}}
+{"timestamp": {"$date": {"$numberLong": "1644550644409"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6306, 6402, 812], "velocity": [1, 4, 812]}}
+{"timestamp": {"$date": {"$numberLong": "1644550644590"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6264, 6999, 813], "velocity": [4, 1, 813]}}
+{"timestamp": {"$date": {"$numberLong": "1644550644778"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6021, 6366, 814], "velocity": [7, 4, 814]}}
+{"timestamp": {"$date": {"$numberLong": "1644550645377"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6243, 6708, 815], "velocity": [4, 4, 815]}}
+{"timestamp": {"$date": {"$numberLong": "1644550645508"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6726, 6117, 816], "velocity": [1, 1, 816]}}
+{"timestamp": {"$date": {"$numberLong": "1644550645849"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6303, 6549, 817], "velocity": [7, 4, 817]}}
+{"timestamp": {"$date": {"$numberLong": "1644550645947"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6711, 6651, 818], "velocity": [4, 7, 818], "infrequent_reading": 1355}}
+{"timestamp": {"$date": {"$numberLong": "1644550646119"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6345, 6117, 819], "velocity": [7, 1, 819], "infrequent_reading": 1881}}
+{"timestamp": {"$date": {"$numberLong": "1644550646742"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6642, 6561, 820], "velocity": [7, 1, 820], "infrequent_reading": 1827}}
+{"timestamp": {"$date": {"$numberLong": "1644550646817"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6912, 6309, 821], "velocity": [1, 1, 821]}}
+{"timestamp": {"$date": {"$numberLong": "1644550647005"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6378, 6672, 822], "velocity": [4, 1, 822]}}
+{"timestamp": {"$date": {"$numberLong": "1644550647558"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6348, 6021, 823], "velocity": [7, 4, 823], "infrequent_reading": 1833}}
+{"timestamp": {"$date": {"$numberLong": "1644550647618"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6204, 6459, 824], "velocity": [7, 4, 824], "infrequent_reading": 121}}
+{"timestamp": {"$date": {"$numberLong": "1644550648161"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6927, 6789, 825], "velocity": [7, 7, 825]}}
+{"timestamp": {"$date": {"$numberLong": "1644550648740"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6972, 6744, 826], "velocity": [4, 1, 826]}}
+{"timestamp": {"$date": {"$numberLong": "1644550648890"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6054, 6993, 827], "velocity": [1, 1, 827]}}
+{"timestamp": {"$date": {"$numberLong": "1644550649484"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6309, 6957, 828], "velocity": [7, 4, 828]}}
+{"timestamp": {"$date": {"$numberLong": "1644550650000"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6732, 6741, 829], "velocity": [4, 4, 829]}}
+{"timestamp": {"$date": {"$numberLong": "1644550650397"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6234, 6714, 830], "velocity": [7, 7, 830]}}
+{"timestamp": {"$date": {"$numberLong": "1644550650942"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6438, 6507, 831], "velocity": [1, 4, 831]}}
+{"timestamp": {"$date": {"$numberLong": "1644550651002"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6330, 6900, 832], "velocity": [1, 7, 832]}}
+{"timestamp": {"$date": {"$numberLong": "1644550651081"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6429, 6501, 833], "velocity": [7, 1, 833]}}
+{"timestamp": {"$date": {"$numberLong": "1644550651286"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6069, 6612, 834], "velocity": [4, 1, 834]}}
+{"timestamp": {"$date": {"$numberLong": "1644550651665"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6306, 6276, 835], "velocity": [1, 4, 835]}}
+{"timestamp": {"$date": {"$numberLong": "1644550652177"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6414, 6582, 836], "velocity": [7, 1, 836]}}
+{"timestamp": {"$date": {"$numberLong": "1644550652622"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6435, 6606, 837], "velocity": [1, 4, 837]}}
+{"timestamp": {"$date": {"$numberLong": "1644550653090"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6579, 6579, 838], "velocity": [7, 1, 838]}}
+{"timestamp": {"$date": {"$numberLong": "1644550653305"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6552, 6822, 839], "velocity": [7, 1, 839]}}
+{"timestamp": {"$date": {"$numberLong": "1644550653700"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6084, 6501, 840], "velocity": [4, 1, 840], "infrequent_reading": 438}}
+{"timestamp": {"$date": {"$numberLong": "1644550653953"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6012, 6717, 841], "velocity": [4, 7, 841]}}
+{"timestamp": {"$date": {"$numberLong": "1644550653986"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6447, 6093, 842], "velocity": [1, 1, 842]}}
+{"timestamp": {"$date": {"$numberLong": "1644550654233"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6918, 6804, 843], "velocity": [7, 7, 843]}}
+{"timestamp": {"$date": {"$numberLong": "1644550654450"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6834, 6183, 844], "velocity": [4, 1, 844], "infrequent_reading": 200}}
+{"timestamp": {"$date": {"$numberLong": "1644550654999"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6849, 6786, 845], "velocity": [1, 1, 845]}}
+{"timestamp": {"$date": {"$numberLong": "1644550655065"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6567, 6207, 846], "velocity": [4, 7, 846]}}
+{"timestamp": {"$date": {"$numberLong": "1644550655208"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6066, 6282, 847], "velocity": [7, 7, 847]}}
+{"timestamp": {"$date": {"$numberLong": "1644550655282"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6297, 6171, 848], "velocity": [1, 1, 848]}}
+{"timestamp": {"$date": {"$numberLong": "1644550655880"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6489, 849], "velocity": [7, 7, 849]}}
+{"timestamp": {"$date": {"$numberLong": "1644550656130"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6972, 6462, 850], "velocity": [7, 7, 850]}}
+{"timestamp": {"$date": {"$numberLong": "1644550656435"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6117, 6648, 851], "velocity": [7, 4, 851]}}
+{"timestamp": {"$date": {"$numberLong": "1644550661943"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6975, 6285, 852], "velocity": [7, 4, 852], "infrequent_reading": 1976}}
+{"timestamp": {"$date": {"$numberLong": "1644550662021"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6996, 6798, 853], "velocity": [7, 7, 853]}}
+{"timestamp": {"$date": {"$numberLong": "1644550662204"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6633, 6417, 854], "velocity": [4, 4, 854]}}
+{"timestamp": {"$date": {"$numberLong": "1644550662403"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6465, 6054, 855], "velocity": [7, 4, 855], "infrequent_reading": 82}}
+{"timestamp": {"$date": {"$numberLong": "1644550662792"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6354, 6438, 856], "velocity": [7, 4, 856]}}
+{"timestamp": {"$date": {"$numberLong": "1644550663030"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6516, 6339, 857], "velocity": [4, 1, 857]}}
+{"timestamp": {"$date": {"$numberLong": "1644550663338"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6777, 6162, 858], "velocity": [1, 1, 858]}}
+{"timestamp": {"$date": {"$numberLong": "1644550663924"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6564, 6840, 859], "velocity": [4, 4, 859]}}
+{"timestamp": {"$date": {"$numberLong": "1644550664121"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6591, 6495, 860], "velocity": [1, 4, 860]}}
+{"timestamp": {"$date": {"$numberLong": "1644550669281"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6465, 6219, 861], "velocity": [1, 7, 861]}}
+{"timestamp": {"$date": {"$numberLong": "1644550669663"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6624, 6201, 862], "velocity": [1, 7, 862]}}
+{"timestamp": {"$date": {"$numberLong": "1644550670044"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6105, 6054, 863], "velocity": [7, 7, 863]}}
+{"timestamp": {"$date": {"$numberLong": "1644550670599"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6534, 6354, 864], "velocity": [7, 1, 864]}}
+{"timestamp": {"$date": {"$numberLong": "1644550670699"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6033, 6942, 865], "velocity": [4, 4, 865], "infrequent_reading": 1081}}
+{"timestamp": {"$date": {"$numberLong": "1644550671327"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6042, 6714, 866], "velocity": [4, 1, 866]}}
+{"timestamp": {"$date": {"$numberLong": "1644550671838"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6480, 6357, 867], "velocity": [1, 4, 867]}}
+{"timestamp": {"$date": {"$numberLong": "1644550671882"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6477, 6972, 868], "velocity": [1, 7, 868]}}
+{"timestamp": {"$date": {"$numberLong": "1644550672335"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6834, 6291, 869], "velocity": [1, 1, 869]}}
+{"timestamp": {"$date": {"$numberLong": "1644550672460"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6180, 6648, 870], "velocity": [7, 1, 870], "infrequent_reading": 107}}
+{"timestamp": {"$date": {"$numberLong": "1644550672948"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6966, 6405, 871], "velocity": [1, 7, 871]}}
+{"timestamp": {"$date": {"$numberLong": "1644550673403"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6354, 6375, 872], "velocity": [7, 1, 872], "infrequent_reading": 14}}
+{"timestamp": {"$date": {"$numberLong": "1644550673894"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6822, 6996, 873], "velocity": [7, 4, 873], "infrequent_reading": 643}}
+{"timestamp": {"$date": {"$numberLong": "1644550674416"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6975, 6561, 874], "velocity": [4, 4, 874]}}
+{"timestamp": {"$date": {"$numberLong": "1644550674568"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6324, 6954, 875], "velocity": [4, 7, 875]}}
+{"timestamp": {"$date": {"$numberLong": "1644550674884"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6495, 6369, 876], "velocity": [1, 4, 876], "infrequent_reading": 115}}
+{"timestamp": {"$date": {"$numberLong": "1644550674997"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6666, 6651, 877], "velocity": [1, 1, 877], "infrequent_reading": 443}}
+{"timestamp": {"$date": {"$numberLong": "1644550675315"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6585, 6036, 878], "velocity": [4, 1, 878]}}
+{"timestamp": {"$date": {"$numberLong": "1644550675792"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6435, 6852, 879], "velocity": [4, 4, 879]}}
+{"timestamp": {"$date": {"$numberLong": "1644550675986"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6147, 6429, 880], "velocity": [7, 4, 880]}}
+{"timestamp": {"$date": {"$numberLong": "1644550676205"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6444, 6663, 881], "velocity": [7, 7, 881]}}
+{"timestamp": {"$date": {"$numberLong": "1644550676638"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6348, 6636, 882], "velocity": [7, 7, 882]}}
+{"timestamp": {"$date": {"$numberLong": "1644550677016"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6495, 6156, 883], "velocity": [7, 4, 883]}}
+{"timestamp": {"$date": {"$numberLong": "1644550677498"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6501, 6057, 884], "velocity": [7, 1, 884]}}
+{"timestamp": {"$date": {"$numberLong": "1644550677622"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6597, 6336, 885], "velocity": [1, 1, 885]}}
+{"timestamp": {"$date": {"$numberLong": "1644550677888"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6240, 6852, 886], "velocity": [4, 4, 886]}}
+{"timestamp": {"$date": {"$numberLong": "1644550677937"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6288, 6297, 887], "velocity": [7, 4, 887]}}
+{"timestamp": {"$date": {"$numberLong": "1644550678077"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6117, 6045, 888], "velocity": [7, 1, 888]}}
+{"timestamp": {"$date": {"$numberLong": "1644550678496"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6690, 6819, 889], "velocity": [1, 7, 889]}}
+{"timestamp": {"$date": {"$numberLong": "1644550678817"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6366, 6615, 890], "velocity": [4, 1, 890], "infrequent_reading": 1066}}
+{"timestamp": {"$date": {"$numberLong": "1644550679443"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6807, 6189, 891], "velocity": [1, 1, 891], "infrequent_reading": 714}}
+{"timestamp": {"$date": {"$numberLong": "1644550684485"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6006, 6885, 892], "velocity": [7, 7, 892]}}
+{"timestamp": {"$date": {"$numberLong": "1644550685098"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6414, 6999, 893], "velocity": [1, 1, 893]}}
+{"timestamp": {"$date": {"$numberLong": "1644550685241"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6912, 6081, 894], "velocity": [7, 4, 894], "infrequent_reading": 1301}}
+{"timestamp": {"$date": {"$numberLong": "1644550685329"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6708, 6621, 895], "velocity": [7, 4, 895]}}
+{"timestamp": {"$date": {"$numberLong": "1644550685893"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6513, 6333, 896], "velocity": [4, 1, 896], "infrequent_reading": 1913}}
+{"timestamp": {"$date": {"$numberLong": "1644550686159"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6309, 6513, 897], "velocity": [1, 4, 897]}}
+{"timestamp": {"$date": {"$numberLong": "1644550686764"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6681, 898], "velocity": [1, 7, 898]}}
+{"timestamp": {"$date": {"$numberLong": "1644550687225"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6906, 6324, 899], "velocity": [1, 1, 899]}}
+{"timestamp": {"$date": {"$numberLong": "1644550687758"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6231, 6306, 900], "velocity": [1, 4, 900]}}
+{"timestamp": {"$date": {"$numberLong": "1644550688377"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6735, 6138, 901], "velocity": [1, 1, 901], "infrequent_reading": 1074}}
+{"timestamp": {"$date": {"$numberLong": "1644550688906"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6546, 6957, 902], "velocity": [1, 4, 902]}}
+{"timestamp": {"$date": {"$numberLong": "1644550689311"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6774, 6450, 903], "velocity": [1, 4, 903]}}
+{"timestamp": {"$date": {"$numberLong": "1644550689353"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6396, 6279, 904], "velocity": [1, 4, 904]}}
+{"timestamp": {"$date": {"$numberLong": "1644550689972"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6828, 6360, 905], "velocity": [7, 1, 905]}}
+{"timestamp": {"$date": {"$numberLong": "1644550690227"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6030, 6651, 906], "velocity": [1, 7, 906]}}
+{"timestamp": {"$date": {"$numberLong": "1644550690516"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6564, 6723, 907], "velocity": [1, 4, 907]}}
+{"timestamp": {"$date": {"$numberLong": "1644550691133"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6363, 6258, 908], "velocity": [1, 4, 908]}}
+{"timestamp": {"$date": {"$numberLong": "1644550691449"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6948, 6900, 909], "velocity": [4, 4, 909]}}
+{"timestamp": {"$date": {"$numberLong": "1644550691842"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6432, 6951, 910], "velocity": [7, 1, 910]}}
+{"timestamp": {"$date": {"$numberLong": "1644550691906"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6813, 6222, 911], "velocity": [7, 7, 911]}}
+{"timestamp": {"$date": {"$numberLong": "1644550692127"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6369, 6504, 912], "velocity": [1, 7, 912]}}
+{"timestamp": {"$date": {"$numberLong": "1644550692662"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6594, 6564, 913], "velocity": [7, 1, 913]}}
+{"timestamp": {"$date": {"$numberLong": "1644550693180"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6111, 6003, 914], "velocity": [1, 7, 914], "infrequent_reading": 1900}}
+{"timestamp": {"$date": {"$numberLong": "1644550693363"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6156, 6258, 915], "velocity": [4, 1, 915], "infrequent_reading": 89}}
+{"timestamp": {"$date": {"$numberLong": "1644550693961"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6528, 6012, 916], "velocity": [1, 1, 916]}}
+{"timestamp": {"$date": {"$numberLong": "1644550699503"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6621, 6669, 917], "velocity": [7, 7, 917]}}
+{"timestamp": {"$date": {"$numberLong": "1644550699945"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6723, 6372, 918], "velocity": [7, 4, 918]}}
+{"timestamp": {"$date": {"$numberLong": "1644550700348"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6171, 6780, 919], "velocity": [7, 4, 919], "infrequent_reading": 906}}
+{"timestamp": {"$date": {"$numberLong": "1644550700825"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6174, 6000, 920], "velocity": [7, 4, 920], "infrequent_reading": 915}}
+{"timestamp": {"$date": {"$numberLong": "1644550701024"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6483, 6168, 921], "velocity": [1, 4, 921], "infrequent_reading": 1057}}
+{"timestamp": {"$date": {"$numberLong": "1644550701654"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6654, 6411, 922], "velocity": [1, 1, 922]}}
+{"timestamp": {"$date": {"$numberLong": "1644550701896"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6777, 6333, 923], "velocity": [1, 4, 923]}}
+{"timestamp": {"$date": {"$numberLong": "1644550702093"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6576, 6528, 924], "velocity": [4, 1, 924]}}
+{"timestamp": {"$date": {"$numberLong": "1644550702567"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6420, 6999, 925], "velocity": [4, 1, 925], "infrequent_reading": 1121}}
+{"timestamp": {"$date": {"$numberLong": "1644550702964"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6528, 6657, 926], "velocity": [1, 4, 926]}}
+{"timestamp": {"$date": {"$numberLong": "1644550703516"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6138, 6747, 927], "velocity": [1, 1, 927]}}
+{"timestamp": {"$date": {"$numberLong": "1644550703842"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6516, 6717, 928], "velocity": [4, 7, 928]}}
+{"timestamp": {"$date": {"$numberLong": "1644550704148"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6945, 6090, 929], "velocity": [4, 1, 929], "infrequent_reading": 1920}}
+{"timestamp": {"$date": {"$numberLong": "1644550704684"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6306, 6669, 930], "velocity": [7, 1, 930], "infrequent_reading": 976}}
+{"timestamp": {"$date": {"$numberLong": "1644550705005"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6738, 6864, 931], "velocity": [1, 4, 931]}}
+{"timestamp": {"$date": {"$numberLong": "1644550705249"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6129, 6222, 932], "velocity": [4, 4, 932]}}
+{"timestamp": {"$date": {"$numberLong": "1644550705285"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6786, 6342, 933], "velocity": [4, 4, 933]}}
+{"timestamp": {"$date": {"$numberLong": "1644550705578"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6126, 6831, 934], "velocity": [4, 4, 934]}}
+{"timestamp": {"$date": {"$numberLong": "1644550705808"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6093, 6366, 935], "velocity": [1, 4, 935]}}
+{"timestamp": {"$date": {"$numberLong": "1644550706087"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6495, 6000, 936], "velocity": [7, 4, 936]}}
+{"timestamp": {"$date": {"$numberLong": "1644550706532"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6897, 6933, 937], "velocity": [7, 7, 937]}}
+{"timestamp": {"$date": {"$numberLong": "1644550706569"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6798, 6219, 938], "velocity": [7, 1, 938]}}
+{"timestamp": {"$date": {"$numberLong": "1644550706635"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6645, 6552, 939], "velocity": [7, 7, 939]}}
+{"timestamp": {"$date": {"$numberLong": "1644550707242"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6480, 6603, 940], "velocity": [7, 4, 940]}}
+{"timestamp": {"$date": {"$numberLong": "1644550707641"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6039, 6672, 941], "velocity": [1, 4, 941]}}
+{"timestamp": {"$date": {"$numberLong": "1644550707918"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6630, 6363, 942], "velocity": [7, 1, 942]}}
+{"timestamp": {"$date": {"$numberLong": "1644550708295"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6264, 6465, 943], "velocity": [1, 1, 943], "infrequent_reading": 1550}}
+{"timestamp": {"$date": {"$numberLong": "1644550708664"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6609, 6786, 944], "velocity": [7, 4, 944], "infrequent_reading": 740}}
+{"timestamp": {"$date": {"$numberLong": "1644550709011"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6285, 6630, 945], "velocity": [7, 7, 945]}}
+{"timestamp": {"$date": {"$numberLong": "1644550709613"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6165, 6666, 946], "velocity": [1, 7, 946]}}
+{"timestamp": {"$date": {"$numberLong": "1644550709968"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6381, 6477, 947], "velocity": [4, 1, 947]}}
+{"timestamp": {"$date": {"$numberLong": "1644550710183"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6726, 6618, 948], "velocity": [4, 1, 948]}}
+{"timestamp": {"$date": {"$numberLong": "1644550710655"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6318, 6483, 949], "velocity": [4, 4, 949]}}
+{"timestamp": {"$date": {"$numberLong": "1644550715793"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6204, 6135, 950], "velocity": [1, 4, 950]}}
+{"timestamp": {"$date": {"$numberLong": "1644550716004"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6738, 6597, 951], "velocity": [4, 1, 951], "infrequent_reading": 1044}}
+{"timestamp": {"$date": {"$numberLong": "1644550716045"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6837, 6624, 952], "velocity": [1, 7, 952]}}
+{"timestamp": {"$date": {"$numberLong": "1644550716243"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6423, 6594, 953], "velocity": [4, 4, 953]}}
+{"timestamp": {"$date": {"$numberLong": "1644550716453"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6654, 6630, 954], "velocity": [4, 4, 954], "infrequent_reading": 1172}}
+{"timestamp": {"$date": {"$numberLong": "1644550716693"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6591, 6693, 955], "velocity": [7, 1, 955]}}
+{"timestamp": {"$date": {"$numberLong": "1644550716836"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6012, 6330, 956], "velocity": [7, 7, 956]}}
+{"timestamp": {"$date": {"$numberLong": "1644550716890"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6771, 6846, 957], "velocity": [4, 1, 957]}}
+{"timestamp": {"$date": {"$numberLong": "1644550717068"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6936, 6174, 958], "velocity": [4, 1, 958], "infrequent_reading": 546}}
+{"timestamp": {"$date": {"$numberLong": "1644550717684"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6708, 6360, 959], "velocity": [1, 4, 959]}}
+{"timestamp": {"$date": {"$numberLong": "1644550718062"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6756, 6612, 960], "velocity": [4, 7, 960], "infrequent_reading": 1174}}
+{"timestamp": {"$date": {"$numberLong": "1644550718486"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6252, 6258, 961], "velocity": [7, 1, 961], "infrequent_reading": 1118}}
+{"timestamp": {"$date": {"$numberLong": "1644550718961"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6687, 6600, 962], "velocity": [1, 7, 962], "infrequent_reading": 912}}
+{"timestamp": {"$date": {"$numberLong": "1644550719575"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6684, 6357, 963], "velocity": [1, 4, 963]}}
+{"timestamp": {"$date": {"$numberLong": "1644550719608"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6714, 6888, 964], "velocity": [4, 1, 964]}}
+{"timestamp": {"$date": {"$numberLong": "1644550719946"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6459, 6180, 965], "velocity": [4, 7, 965]}}
+{"timestamp": {"$date": {"$numberLong": "1644550725453"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6858, 6633, 966], "velocity": [4, 4, 966]}}
+{"timestamp": {"$date": {"$numberLong": "1644550725604"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6759, 6744, 967], "velocity": [1, 7, 967], "infrequent_reading": 1414}}
+{"timestamp": {"$date": {"$numberLong": "1644550725753"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6738, 6987, 968], "velocity": [1, 7, 968], "infrequent_reading": 124}}
+{"timestamp": {"$date": {"$numberLong": "1644550726030"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6411, 6747, 969], "velocity": [7, 7, 969], "infrequent_reading": 915}}
+{"timestamp": {"$date": {"$numberLong": "1644550726435"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6045, 6762, 970], "velocity": [4, 7, 970]}}
+{"timestamp": {"$date": {"$numberLong": "1644550726999"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6999, 6948, 971], "velocity": [7, 1, 971]}}
+{"timestamp": {"$date": {"$numberLong": "1644550727608"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6543, 6336, 972], "velocity": [1, 4, 972], "infrequent_reading": 1680}}
+{"timestamp": {"$date": {"$numberLong": "1644550728087"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6189, 6687, 973], "velocity": [1, 4, 973]}}
+{"timestamp": {"$date": {"$numberLong": "1644550728143"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6717, 6582, 974], "velocity": [1, 7, 974]}}
+{"timestamp": {"$date": {"$numberLong": "1644550728617"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6480, 6762, 975], "velocity": [7, 7, 975]}}
+{"timestamp": {"$date": {"$numberLong": "1644550728770"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6306, 6063, 976], "velocity": [7, 1, 976]}}
+{"timestamp": {"$date": {"$numberLong": "1644550729203"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6648, 6654, 977], "velocity": [7, 4, 977]}}
+{"timestamp": {"$date": {"$numberLong": "1644550729737"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6282, 6717, 978], "velocity": [1, 1, 978]}}
+{"timestamp": {"$date": {"$numberLong": "1644550730290"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6399, 6783, 979], "velocity": [1, 1, 979]}}
+{"timestamp": {"$date": {"$numberLong": "1644550730885"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6714, 6393, 980], "velocity": [1, 1, 980]}}
+{"timestamp": {"$date": {"$numberLong": "1644550735942"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6516, 6555, 981], "velocity": [1, 7, 981]}}
+{"timestamp": {"$date": {"$numberLong": "1644550736281"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6648, 6123, 982], "velocity": [1, 4, 982]}}
+{"timestamp": {"$date": {"$numberLong": "1644550736378"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6237, 6315, 983], "velocity": [7, 1, 983]}}
+{"timestamp": {"$date": {"$numberLong": "1644550736827"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6240, 6471, 984], "velocity": [1, 1, 984]}}
+{"timestamp": {"$date": {"$numberLong": "1644550737418"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6660, 6591, 985], "velocity": [7, 7, 985]}}
+{"timestamp": {"$date": {"$numberLong": "1644550737565"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6147, 6876, 986], "velocity": [1, 4, 986]}}
+{"timestamp": {"$date": {"$numberLong": "1644550737706"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6462, 6432, 987], "velocity": [4, 7, 987]}}
+{"timestamp": {"$date": {"$numberLong": "1644550738262"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6561, 6852, 988], "velocity": [7, 4, 988], "infrequent_reading": 493}}
+{"timestamp": {"$date": {"$numberLong": "1644550738612"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6639, 6819, 989], "velocity": [1, 4, 989]}}
+{"timestamp": {"$date": {"$numberLong": "1644550738863"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6069, 6123, 990], "velocity": [4, 7, 990]}}
+{"timestamp": {"$date": {"$numberLong": "1644550739248"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6072, 6981, 991], "velocity": [7, 7, 991]}}
+{"timestamp": {"$date": {"$numberLong": "1644550744608"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6717, 6357, 992], "velocity": [7, 1, 992]}}
+{"timestamp": {"$date": {"$numberLong": "1644550745032"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6012, 6771, 993], "velocity": [1, 4, 993]}}
+{"timestamp": {"$date": {"$numberLong": "1644550745568"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6564, 6258, 994], "velocity": [4, 1, 994]}}
+{"timestamp": {"$date": {"$numberLong": "1644550746119"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6192, 6213, 995], "velocity": [4, 7, 995]}}
+{"timestamp": {"$date": {"$numberLong": "1644550746640"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6612, 6651, 996], "velocity": [7, 1, 996], "infrequent_reading": 1270}}
+{"timestamp": {"$date": {"$numberLong": "1644550746802"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6399, 6135, 997], "velocity": [7, 4, 997]}}
+{"timestamp": {"$date": {"$numberLong": "1644550746950"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6642, 6021, 998], "velocity": [1, 1, 998], "infrequent_reading": 1422}}
+{"timestamp": {"$date": {"$numberLong": "1644550747286"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6303, 6423, 999], "velocity": [7, 1, 999]}}
+{"timestamp": {"$date": {"$numberLong": "1644550747865"}}, "metadata": {"source": "3rd Party"}, "extParty": {"position": [6159, 6606, 1000], "velocity": [7, 7, 1000]}}
