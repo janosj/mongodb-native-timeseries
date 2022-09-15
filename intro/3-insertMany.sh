@@ -1,4 +1,4 @@
-source demo.conf
+source ../demo.conf
 
 # Create the time series collection
 
